@@ -4,43 +4,43 @@
       {
         "era": "pop-punk / metalcore",
         "id": 23,
-        "lastCheckedAt": "2026-10-23T12:10:45.963Z",
+        "lastCheckedAt": "2026-10-24T12:08:54.027Z",
         "name": "A Day to Remember",
-        "octShows": 0,
-        "selected": true,
-        "totalShows": 2
-      },
-      {
-        "era": "goth-punk / emo",
-        "id": 12,
-        "lastCheckedAt": "2026-10-23T12:09:20.220Z",
-        "name": "AFI",
-        "octShows": 0,
-        "selected": true,
-        "totalShows": 3
-      },
-      {
-        "era": "punk / emo",
-        "id": 11,
-        "lastCheckedAt": "2026-10-23T12:09:11.229Z",
-        "name": "Alkaline Trio",
-        "octShows": 0,
-        "selected": true,
-        "totalShows": 1
-      },
-      {
-        "era": "'90s Midwest emo",
-        "id": 32,
-        "lastCheckedAt": "2026-10-23T12:08:59.552Z",
-        "name": "American Football",
         "octShows": 0,
         "selected": true,
         "totalShows": 7
       },
       {
+        "era": "goth-punk / emo",
+        "id": 12,
+        "lastCheckedAt": "2026-10-24T12:08:48.607Z",
+        "name": "AFI",
+        "octShows": 0,
+        "selected": true,
+        "totalShows": 5
+      },
+      {
+        "era": "punk / emo",
+        "id": 11,
+        "lastCheckedAt": "2026-10-24T12:08:41.737Z",
+        "name": "Alkaline Trio",
+        "octShows": 0,
+        "selected": true,
+        "totalShows": 0
+      },
+      {
+        "era": "'90s Midwest emo",
+        "id": 32,
+        "lastCheckedAt": "2026-10-24T12:08:25.655Z",
+        "name": "American Football",
+        "octShows": 0,
+        "selected": true,
+        "totalShows": 12
+      },
+      {
         "era": "2000s emo",
         "id": 8,
-        "lastCheckedAt": "2026-10-23T12:11:47.511Z",
+        "lastCheckedAt": "2026-10-24T12:09:17.308Z",
         "name": "Brand New",
         "octShows": 0,
         "selected": true,
@@ -49,25 +49,25 @@
       {
         "era": "prog-emo",
         "id": 13,
-        "lastCheckedAt": "2026-10-23T11:10:42.016Z",
+        "lastCheckedAt": "2026-10-24T12:09:16.647Z",
         "name": "Coheed and Cambria",
         "octShows": 0,
         "selected": true,
-        "totalShows": 6
+        "totalShows": 5
       },
       {
         "era": "2000s acoustic emo",
         "id": 6,
-        "lastCheckedAt": "2026-10-23T12:11:19.531Z",
+        "lastCheckedAt": "2026-10-24T12:09:11.524Z",
         "name": "Dashboard Confessional",
         "octShows": 10,
         "selected": true,
-        "totalShows": 11
+        "totalShows": 12
       },
       {
         "era": "2000s pop-punk / emo",
         "id": 2,
-        "lastCheckedAt": "2026-10-23T12:11:15.868Z",
+        "lastCheckedAt": "2026-10-24T12:09:16.718Z",
         "name": "Fall Out Boy",
         "octShows": 0,
         "selected": true,
@@ -76,7 +76,7 @@
       {
         "era": "pop-punk",
         "id": 27,
-        "lastCheckedAt": "2026-10-23T11:12:05.961Z",
+        "lastCheckedAt": "2026-10-24T12:10:08.658Z",
         "name": "Good Charlotte",
         "octShows": 0,
         "selected": true,
@@ -85,25 +85,25 @@
       {
         "era": "2000s screamo / emo",
         "id": 17,
-        "lastCheckedAt": "2026-10-23T11:11:55.283Z",
+        "lastCheckedAt": "2026-10-24T12:09:55.162Z",
         "name": "Hawthorne Heights",
         "octShows": 0,
         "selected": true,
-        "totalShows": 33
+        "totalShows": 16
       },
       {
         "era": "emo revival",
         "id": 30,
-        "lastCheckedAt": "2026-10-23T11:12:38.968Z",
+        "lastCheckedAt": "2026-10-24T12:09:40.736Z",
         "name": "Hot Mulligan",
         "octShows": 0,
         "selected": true,
-        "totalShows": 17
+        "totalShows": 18
       },
       {
-        "era": "'90s emo \u2192 mainstream",
+        "era": "'90s emo → mainstream",
         "id": 4,
-        "lastCheckedAt": "2026-10-23T11:11:39.049Z",
+        "lastCheckedAt": "2026-10-24T12:09:50.429Z",
         "name": "Jimmy Eat World",
         "octShows": 0,
         "selected": true,
@@ -112,16 +112,16 @@
       {
         "era": "emo revival",
         "id": 31,
-        "lastCheckedAt": "2026-10-23T11:13:02.504Z",
+        "lastCheckedAt": "2026-10-24T12:10:19.887Z",
         "name": "Mom Jeans.",
         "octShows": 0,
         "selected": true,
-        "totalShows": 8
+        "totalShows": 7
       },
       {
         "era": "2000s pop-punk / emo",
         "id": 14,
-        "lastCheckedAt": "2026-10-23T11:13:34.343Z",
+        "lastCheckedAt": "2026-10-24T12:11:11.300Z",
         "name": "Motion City Soundtrack",
         "octShows": 0,
         "selected": true,
@@ -130,25 +130,25 @@
       {
         "era": "2000s emo royalty",
         "id": 1,
-        "lastCheckedAt": "2026-10-23T11:13:44.846Z",
+        "lastCheckedAt": "2026-10-24T12:10:29.980Z",
         "name": "My Chemical Romance",
         "octShows": 0,
         "selected": true,
-        "totalShows": 9
+        "totalShows": 11
       },
       {
         "era": "pop-punk",
         "id": 24,
-        "lastCheckedAt": "2026-10-23T11:13:28.003Z",
+        "lastCheckedAt": "2026-10-24T12:10:52.988Z",
         "name": "New Found Glory",
         "octShows": 0,
         "selected": true,
-        "totalShows": 3
+        "totalShows": 2
       },
       {
         "era": "2000s pop-punk / emo",
         "id": 3,
-        "lastCheckedAt": "2026-10-23T11:14:30.375Z",
+        "lastCheckedAt": "2026-10-24T12:11:25.702Z",
         "name": "Paramore",
         "octShows": 0,
         "selected": true,
@@ -157,16 +157,16 @@
       {
         "era": "2010s post-hardcore",
         "id": 21,
-        "lastCheckedAt": "2026-10-23T11:15:00.966Z",
+        "lastCheckedAt": "2026-10-24T11:14:11.612Z",
         "name": "Pierce the Veil",
         "octShows": 0,
         "selected": true,
-        "totalShows": 8
+        "totalShows": 6
       },
       {
         "era": "'90s / 2000s emo",
         "id": 16,
-        "lastCheckedAt": "2026-10-23T11:14:58.572Z",
+        "lastCheckedAt": "2026-10-24T11:14:02.466Z",
         "name": "Saves the Day",
         "octShows": 0,
         "selected": true,
@@ -175,7 +175,7 @@
       {
         "era": "2000s post-hardcore",
         "id": 18,
-        "lastCheckedAt": "2026-10-23T11:15:04.259Z",
+        "lastCheckedAt": "2026-10-24T11:14:19.550Z",
         "name": "Senses Fail",
         "octShows": 0,
         "selected": true,
@@ -184,34 +184,34 @@
       {
         "era": "2000s post-hardcore",
         "id": 19,
-        "lastCheckedAt": "2026-10-23T11:16:14.854Z",
+        "lastCheckedAt": "2026-10-24T11:14:49.658Z",
         "name": "Silverstein",
+        "octShows": 0,
+        "selected": true,
+        "totalShows": 20
+      },
+      {
+        "era": "pop-punk",
+        "id": 26,
+        "lastCheckedAt": "2026-10-24T11:14:52.864Z",
+        "name": "Simple Plan",
         "octShows": 0,
         "selected": true,
         "totalShows": 21
       },
       {
-        "era": "pop-punk",
-        "id": 26,
-        "lastCheckedAt": "2026-10-23T11:16:45.217Z",
-        "name": "Simple Plan",
-        "octShows": 0,
-        "selected": true,
-        "totalShows": 23
-      },
-      {
         "era": "2010s post-hardcore",
         "id": 22,
-        "lastCheckedAt": "2026-10-23T11:16:43.568Z",
+        "lastCheckedAt": "2026-10-24T11:15:17.168Z",
         "name": "Sleeping with Sirens",
         "octShows": 0,
         "selected": true,
-        "totalShows": 48
+        "totalShows": 46
       },
       {
         "era": "2000s emo",
         "id": 5,
-        "lastCheckedAt": "2026-10-23T11:17:31.231Z",
+        "lastCheckedAt": "2026-10-24T11:15:26.553Z",
         "name": "Taking Back Sunday",
         "octShows": 0,
         "selected": true,
@@ -220,7 +220,7 @@
       {
         "era": "'90s emo",
         "id": 15,
-        "lastCheckedAt": "2026-10-23T12:13:42.044Z",
+        "lastCheckedAt": "2026-10-24T11:16:43.737Z",
         "name": "The Get Up Kids",
         "octShows": 0,
         "selected": true,
@@ -229,16 +229,16 @@
       {
         "era": "2000s post-hardcore / emo",
         "id": 7,
-        "lastCheckedAt": "2026-10-23T12:16:04.858Z",
+        "lastCheckedAt": "2026-10-24T11:16:28.627Z",
         "name": "The Used",
         "octShows": 0,
         "selected": true,
-        "totalShows": 6
+        "totalShows": 7
       },
       {
         "era": "2010s pop-punk / emo revival",
         "id": 29,
-        "lastCheckedAt": "2026-10-23T12:15:05.660Z",
+        "lastCheckedAt": "2026-10-24T11:16:39.563Z",
         "name": "The Wonder Years",
         "octShows": 0,
         "selected": true,
@@ -247,16 +247,16 @@
       {
         "era": "post-hardcore",
         "id": 10,
-        "lastCheckedAt": "2026-10-23T12:18:08.692Z",
+        "lastCheckedAt": "2026-10-24T11:16:52.355Z",
         "name": "Thrice",
         "octShows": 0,
         "selected": true,
-        "totalShows": 7
+        "totalShows": 3
       },
       {
         "era": "post-hardcore pioneers",
         "id": 9,
-        "lastCheckedAt": "2026-10-23T12:17:20.818Z",
+        "lastCheckedAt": "2026-10-24T11:17:07.815Z",
         "name": "Thursday",
         "octShows": 0,
         "selected": true,
@@ -265,91 +265,64 @@
       {
         "era": "metalcore / screamo",
         "id": 20,
-        "lastCheckedAt": "2026-10-23T12:19:56.450Z",
+        "lastCheckedAt": "2026-10-24T11:17:29.371Z",
         "name": "Underoath",
         "octShows": 0,
         "selected": true,
-        "totalShows": 31
+        "totalShows": 30
       },
       {
         "era": "pop-punk",
         "id": 25,
-        "lastCheckedAt": "2026-10-23T12:19:56.537Z",
+        "lastCheckedAt": "2026-10-24T11:17:18.882Z",
         "name": "Yellowcard",
         "octShows": 0,
         "selected": true,
-        "totalShows": 21
+        "totalShows": 19
       },
       {
         "era": "pop-punk",
         "id": 28,
-        "lastCheckedAt": "2026-10-23T12:23:04.906Z",
+        "lastCheckedAt": "2026-10-24T11:17:27.316Z",
         "name": "blink-182",
         "octShows": 0,
         "selected": true,
-        "totalShows": 14
+        "totalShows": 5
       }
     ],
     "shows": [
       {
-        "bandId": 13,
-        "city": "Auckland, New Zealand",
-        "date": "2026-10-23",
-        "id": 1883,
-        "origin": "search",
-        "sourceUrl": "https://concerts.hypebot.com/artist/c/129-coheed-and-cambria",
-        "venue": "Spark Arena"
-      },
-      {
-        "bandId": 17,
-        "city": "Portland, ME",
-        "date": "2026-10-23",
-        "id": 1904,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Aura"
-      },
-      {
-        "bandId": 31,
-        "city": "Oklahoma City, OK, United States",
-        "date": "2026-10-23",
-        "id": 1963,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
-        "venue": "Tower Theatre - OKC"
-      },
-      {
-        "bandId": 1,
-        "city": "Hollywood, CA",
-        "date": "2026-10-23",
-        "id": 1976,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Hollywood Bowl"
-      },
-      {
         "bandId": 26,
-        "city": "Munich, Germany",
-        "date": "2026-10-23",
-        "id": 2091,
+        "city": "Milano, Italy",
+        "date": "2026-10-24",
+        "id": 2436,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/simple-plan-tickets/artist/840419?ac_link=TM_Blog",
-        "venue": "Zenith"
+        "sourceUrl": "https://www.ticketmaster.com.au/search?tm_link=tm_homeA_header_search&user_input=Simple+Plan&q=Simple+Plan",
+        "venue": "Alcatraz"
       },
       {
-        "bandId": 11,
-        "city": "Irvine, CA",
-        "date": "2026-10-23",
-        "id": 2139,
+        "bandId": 22,
+        "city": "Grand Rapids, MI",
+        "date": "2026-10-24",
+        "id": 2457,
         "origin": "search",
-        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/ALKALINE-TRIO-RISE-AGAINST-Release-Split-Single-Fall-Tour-Starts-Sept-22-20260916",
-        "venue": "Great Park Live"
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "GLC Live at 20 Monroe"
+      },
+      {
+        "bandId": 12,
+        "city": "Fort Worth, TX",
+        "date": "2026-10-24",
+        "id": 2603,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/afi-tickets/artist/783767?irgwc=1&clickid=QxAwe7ysxxycUt6xv43L9x1jUkp2UqQuCwwI1Q0&camefrom=CFC_BUYAT_2939647&impradid=2939647&REFERRAL_ID=tmfeedbuyat2939647&wt.mc_id=aff_BUYAT_2939647&utm_source=2939647-Cory+Brennan&impradname=Cory+Brennan&utm_medium=affiliate&ircid=4272",
+        "venue": "Texas Motor Speedway Sick New World"
       },
       {
         "bandId": 17,
         "city": "New York, NY",
         "date": "2026-10-24",
-        "id": 1905,
+        "id": 2670,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
         "venue": "Irving Plaza"
@@ -358,52 +331,61 @@
         "bandId": 31,
         "city": "Dallas, TX, United States",
         "date": "2026-10-24",
-        "id": 1964,
+        "id": 2695,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
         "venue": "AM/FM Dinner and Lounge - Backyard"
       },
       {
         "bandId": 1,
-        "city": "Hollywood, CA",
+        "city": "Los Angeles, CA",
         "date": "2026-10-24",
-        "id": 1977,
+        "id": 2702,
         "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "sourceUrl": "https://www.bringthenoiseuk.com/202610/news/music-news-my-chemical-romance-release-someone-out-there-loves-you-live-from-hoboken",
         "venue": "Hollywood Bowl"
       },
       {
         "bandId": 22,
-        "city": "Grand Rapids, MI",
-        "date": "2026-10-24",
-        "id": 2043,
+        "city": "Chicago, IL",
+        "date": "2026-10-25",
+        "id": 2458,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "GLC Live at 20 Monroe"
+        "venue": "The Salt Shed"
       },
       {
-        "bandId": 26,
-        "city": "Milano, Italy",
-        "date": "2026-10-24",
-        "id": 2092,
+        "bandId": 12,
+        "city": "Tulsa, OK",
+        "date": "2026-10-25",
+        "id": 2604,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/simple-plan-tickets/artist/840419?ac_link=TM_Blog",
-        "venue": "Alcatraz"
+        "sourceUrl": "https://www.axs.com/artists/200021/afi-tickets",
+        "venue": "Cain's Ballroom"
       },
       {
-        "bandId": 20,
-        "city": "Fort Worth",
-        "date": "2026-10-24",
-        "id": 2186,
+        "bandId": 6,
+        "city": "New York",
+        "date": "2026-10-25",
+        "id": 2615,
         "origin": "search",
-        "sourceUrl": "https://mn2s.com/booking-agency/live-roster/underoath/",
-        "venue": "Sick New World Texas 2026"
+        "sourceUrl": "https://seatgeek.com/dashboard-confessional-tickets?aid=14710",
+        "venue": "Mercury Lounge - New York"
+      },
+      {
+        "bandId": 8,
+        "city": "Hollywood, FL",
+        "date": "2026-10-25",
+        "id": 2635,
+        "origin": "search",
+        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
+        "venue": "Hard Rock Live"
       },
       {
         "bandId": 17,
         "city": "Sayreville, NJ",
         "date": "2026-10-25",
-        "id": 1906,
+        "id": 2671,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
         "venue": "Starland Ballroom"
@@ -412,160 +394,106 @@
         "bandId": 31,
         "city": "Austin, TX, United States",
         "date": "2026-10-25",
-        "id": 1965,
+        "id": 2696,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
         "venue": "Emo's Austin"
       },
       {
-        "bandId": 22,
-        "city": "Chicago, IL",
-        "date": "2026-10-25",
-        "id": 2044,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "The Salt Shed"
-      },
-      {
-        "bandId": 12,
-        "city": "Tulsa, OK, United States",
-        "date": "2026-10-25",
-        "id": 2140,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/artists/200021/afi-tickets",
-        "venue": "Cain's Ballroom"
-      },
-      {
-        "bandId": 8,
-        "city": "Hollywood, FL",
-        "date": "2026-10-25",
-        "id": 2159,
-        "origin": "search",
-        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
-        "venue": "Hard Rock Live"
-      },
-      {
-        "bandId": 17,
-        "city": "New York, NY",
-        "date": "2026-10-26",
-        "id": 1931,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "Irving Plaza Powered By Verizon 5G"
-      },
-      {
         "bandId": 26,
         "city": "Barcelona, Spain",
         "date": "2026-10-26",
-        "id": 2093,
+        "id": 2437,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/simple-plan-tickets/artist/840419?ac_link=TM_Blog",
+        "sourceUrl": "https://www.ticketmaster.com.au/search?tm_link=tm_homeA_header_search&user_input=Simple+Plan&q=Simple+Plan",
         "venue": "Sant Jordi Club"
       },
       {
         "bandId": 6,
         "city": "New York",
         "date": "2026-10-26",
-        "id": 2148,
+        "id": 2616,
         "origin": "search",
-        "sourceUrl": "https://seatgeek.com/dashboard-confessional-tickets?aid=12331",
+        "sourceUrl": "https://seatgeek.com/dashboard-confessional-tickets?aid=14710",
         "venue": "The Greene Space NYC"
       },
       {
         "bandId": 17,
-        "city": "Philadelphia, PA",
-        "date": "2026-10-27",
-        "id": 1907,
+        "city": "New York City, NY",
+        "date": "2026-10-26",
+        "id": 2672,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Brooklyn Bowl"
-      },
-      {
-        "bandId": 17,
-        "city": "Philadelphia, PA",
-        "date": "2026-10-27",
-        "id": 1928,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/events/530079/hawthorne-heights-behind-the-tears-tickets/promos/726143",
-        "venue": "Brooklyn Bowl - Philadelphia"
-      },
-      {
-        "bandId": 17,
-        "city": "Philadelphia, PA",
-        "date": "2026-10-27",
-        "id": 1932,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "Brooklyn Bowl Philadelphia"
-      },
-      {
-        "bandId": 31,
-        "city": "Tucson, AZ, United States",
-        "date": "2026-10-27",
-        "id": 1966,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
-        "venue": "Rialto Theatre Tucson"
-      },
-      {
-        "bandId": 22,
-        "city": "Pittsburgh, PA",
-        "date": "2026-10-27",
-        "id": 2045,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "Stage AE"
+        "sourceUrl": "https://www.axs.com/uk/artists/200463/hawthorne-heights-tickets/staticDetails",
+        "venue": "Irving Plaza"
       },
       {
         "bandId": 26,
         "city": "Madrid, Spain",
         "date": "2026-10-27",
-        "id": 2094,
+        "id": 2438,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/simple-plan-tickets/artist/840419?ac_link=TM_Blog",
+        "sourceUrl": "https://www.ticketmaster.com.au/search?tm_link=tm_homeA_header_search&user_input=Simple+Plan&q=Simple+Plan",
         "venue": "Palacio Vistalegre"
       },
       {
-        "bandId": 12,
-        "city": "Tempe, AZ, United States",
+        "bandId": 22,
+        "city": "Pittsburgh, PA",
         "date": "2026-10-27",
-        "id": 2141,
+        "id": 2459,
+        "origin": "search",
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "Stage AE"
+      },
+      {
+        "bandId": 12,
+        "city": "Tempe, AZ",
+        "date": "2026-10-27",
+        "id": 2605,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/artists/200021/afi-tickets",
         "venue": "Marquee Theatre"
       },
       {
         "bandId": 17,
-        "city": "Harrisburg, PA",
-        "date": "2026-10-28",
-        "id": 1933,
+        "city": "Philadelphia, PA",
+        "date": "2026-10-27",
+        "id": 2673,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "XL Live"
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "Brooklyn Bowl"
       },
       {
         "bandId": 31,
-        "city": "Riverside, CA, United States",
-        "date": "2026-10-28",
-        "id": 1967,
+        "city": "Tucson, AZ, United States",
+        "date": "2026-10-27",
+        "id": 2697,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
-        "venue": "Riverside Municipal Auditorium"
+        "venue": "Rialto Theatre Tucson"
       },
       {
         "bandId": 22,
         "city": "Royal Oak, MI",
         "date": "2026-10-28",
-        "id": 2046,
+        "id": 2460,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Royal Oak Music Theatre"
       },
       {
-        "bandId": 12,
-        "city": "Tucson, AZ, United States",
+        "bandId": 7,
+        "city": "Los Angeles, CA",
         "date": "2026-10-28",
-        "id": 2142,
+        "id": 2521,
+        "origin": "search",
+        "sourceUrl": "https://concerts.hypebot.com/artist/u/155-the-used",
+        "venue": "Landmark's Nuart Theatre"
+      },
+      {
+        "bandId": 12,
+        "city": "Tucson, AZ",
+        "date": "2026-10-28",
+        "id": 2606,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/artists/200021/afi-tickets",
         "venue": "Rialto Theatre Tucson"
@@ -574,295 +502,286 @@
         "bandId": 8,
         "city": "Independence, MO",
         "date": "2026-10-28",
-        "id": 2160,
+        "id": 2636,
         "origin": "search",
         "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
         "venue": "Cable Dahmer Arena"
       },
       {
         "bandId": 17,
-        "city": "Baltimore, MD",
-        "date": "2026-10-29",
-        "id": 1929,
+        "city": "Harrisburg, PA",
+        "date": "2026-10-28",
+        "id": 2674,
         "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/events/530079/hawthorne-heights-behind-the-tears-tickets/promos/726143",
-        "venue": "Baltimore Soundstage"
+        "sourceUrl": "https://www.axs.com/uk/artists/200463/hawthorne-heights-tickets/staticDetails",
+        "venue": "XL Live"
       },
       {
-        "bandId": 26,
-        "city": "Zurich, Switzerland",
-        "date": "2026-10-29",
-        "id": 2095,
+        "bandId": 31,
+        "city": "Riverside, CA, United States",
+        "date": "2026-10-28",
+        "id": 2698,
         "origin": "search",
-        "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/simple-plan-tickets",
-        "venue": "Halle 622"
+        "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
+        "venue": "Riverside Municipal Auditorium"
       },
       {
         "bandId": 7,
         "city": "Riverside, CA",
         "date": "2026-10-29",
-        "id": 2167,
+        "id": 2522,
         "origin": "search",
-        "sourceUrl": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date/",
+        "sourceUrl": "https://www.ticketmaster.com/the-used-billets/artist/849503",
         "venue": "Riverside Municipal Auditorium"
       },
       {
         "bandId": 17,
-        "city": "Virginia Beach, VA",
-        "date": "2026-10-30",
-        "id": 1908,
+        "city": "Baltimore, MD",
+        "date": "2026-10-29",
+        "id": 2675,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Elevation 27"
+        "sourceUrl": "https://www.axs.com/uk/artists/200463/hawthorne-heights-tickets/staticDetails",
+        "venue": "Baltimore Soundstage"
+      },
+      {
+        "bandId": 22,
+        "city": "Montreal, QC",
+        "date": "2026-10-30",
+        "id": 2461,
+        "origin": "search",
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "MTELUS"
+      },
+      {
+        "bandId": 7,
+        "city": "Los Angeles, CA",
+        "date": "2026-10-30",
+        "id": 2523,
+        "origin": "search",
+        "sourceUrl": "https://concerts.hypebot.com/artist/u/155-the-used",
+        "venue": "Hollywood Bowl"
+      },
+      {
+        "bandId": 8,
+        "city": "Grand Prairie, TX",
+        "date": "2026-10-30",
+        "id": 2637,
+        "origin": "search",
+        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
+        "venue": "Texas Trust CU Theatre"
       },
       {
         "bandId": 30,
         "city": "London, ON, Canada",
         "date": "2026-10-30",
-        "id": 1959,
+        "id": 2643,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
         "venue": "LONDON MUSIC HALL"
       },
       {
+        "bandId": 17,
+        "city": "Virginia Beach, VA",
+        "date": "2026-10-30",
+        "id": 2676,
+        "origin": "search",
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "Elevation 27"
+      },
+      {
         "bandId": 31,
         "city": "San Diego, CA, United States",
         "date": "2026-10-30",
-        "id": 1968,
+        "id": 2699,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
         "venue": "The Observatory North Park"
       },
       {
         "bandId": 1,
-        "city": "Hollywood, CA",
+        "city": "Los Angeles, CA",
         "date": "2026-10-30",
-        "id": 1978,
+        "id": 2703,
         "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "sourceUrl": "https://www.bringthenoiseuk.com/202610/news/music-news-my-chemical-romance-release-someone-out-there-loves-you-live-from-hoboken",
         "venue": "Hollywood Bowl"
+      },
+      {
+        "bandId": 26,
+        "city": "Paris, 75, France",
+        "date": "2026-10-31",
+        "id": 2439,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com.au/search?tm_link=tm_homeA_header_search&user_input=Simple+Plan&q=Simple+Plan",
+        "venue": "ACCOR ARENA"
       },
       {
         "bandId": 22,
-        "city": "Montreal, QC",
-        "date": "2026-10-30",
-        "id": 2047,
+        "city": "Ottawa, ON",
+        "date": "2026-10-31",
+        "id": 2462,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "MTELUS"
+        "venue": "HISTORY Ottawa"
       },
       {
-        "bandId": 8,
-        "city": "Grand Prairie, TX",
-        "date": "2026-10-30",
-        "id": 2161,
-        "origin": "search",
-        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
-        "venue": "Texas Trust CU Theatre"
-      },
-      {
-        "bandId": 7,
+        "bandId": 10,
         "city": "Los Angeles, CA",
-        "date": "2026-10-30",
-        "id": 2168,
+        "date": "2026-10-31",
+        "id": 2528,
         "origin": "search",
-        "sourceUrl": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date/",
+        "sourceUrl": "https://www.concertarchives.org/bands/thrice",
         "venue": "Hollywood Bowl"
-      },
-      {
-        "bandId": 17,
-        "city": "Charlotte, NC",
-        "date": "2026-10-31",
-        "id": 1909,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "The Underground"
-      },
-      {
-        "bandId": 17,
-        "city": "Charlotte, NC",
-        "date": "2026-10-31",
-        "id": 1930,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/events/530079/hawthorne-heights-behind-the-tears-tickets/promos/726143",
-        "venue": "The Fillmore Charlotte"
       },
       {
         "bandId": 30,
         "city": "Montreal, QC, Canada",
         "date": "2026-10-31",
-        "id": 1960,
+        "id": 2644,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
         "venue": "MTELUS"
       },
       {
+        "bandId": 17,
+        "city": "Charlotte, NC",
+        "date": "2026-10-31",
+        "id": 2677,
+        "origin": "search",
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "The Underground"
+      },
+      {
         "bandId": 31,
         "city": "Fresno, CA, United States",
         "date": "2026-10-31",
-        "id": 1969,
+        "id": 2700,
         "origin": "search",
         "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
         "venue": "Tioga-Sequoia Beer Garden"
       },
       {
         "bandId": 1,
-        "city": "Hollywood, CA",
+        "city": "Los Angeles, CA",
         "date": "2026-10-31",
-        "id": 1979,
+        "id": 2704,
         "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "sourceUrl": "https://www.bringthenoiseuk.com/202610/news/music-news-my-chemical-romance-release-someone-out-there-loves-you-live-from-hoboken",
         "venue": "Hollywood Bowl"
-      },
-      {
-        "bandId": 22,
-        "city": "Ottawa, ON",
-        "date": "2026-10-31",
-        "id": 2048,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "HISTORY Ottawa"
-      },
-      {
-        "bandId": 26,
-        "city": "Paris, France",
-        "date": "2026-10-31",
-        "id": 2096,
-        "origin": "search",
-        "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/simple-plan-tickets",
-        "venue": "AccorHotels Arena"
-      },
-      {
-        "bandId": 10,
-        "city": "Hollywood, CA",
-        "date": "2026-10-31",
-        "id": 2179,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/thrice-tickets/artist/836302?msockid=0d1877e2fd8b6bfb2b1d63a2fca66ae1",
-        "venue": "Hollywood Bowl"
-      },
-      {
-        "bandId": 17,
-        "city": "Charleston, SC",
-        "date": "2026-11-01",
-        "id": 1910,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Charleston Music Hall"
-      },
-      {
-        "bandId": 17,
-        "city": "Charleston, SC",
-        "date": "2026-11-01",
-        "id": 1934,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "The Charleston Music Hall"
-      },
-      {
-        "bandId": 30,
-        "city": "Ottawa, ON, Canada",
-        "date": "2026-11-01",
-        "id": 1961,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "History Ottawa"
-      },
-      {
-        "bandId": 31,
-        "city": "Sacramento, CA, United States",
-        "date": "2026-11-01",
-        "id": 1970,
-        "origin": "search",
-        "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
-        "venue": "Channel 24"
       },
       {
         "bandId": 22,
         "city": "Toronto, ON",
         "date": "2026-11-01",
-        "id": 2049,
+        "id": 2463,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "History"
       },
       {
+        "bandId": 30,
+        "city": "Ottawa, ON, Canada",
+        "date": "2026-11-01",
+        "id": 2645,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "History Ottawa"
+      },
+      {
+        "bandId": 17,
+        "city": "Charleston, SC",
+        "date": "2026-11-01",
+        "id": 2678,
+        "origin": "search",
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "Charleston Music Hall"
+      },
+      {
+        "bandId": 31,
+        "city": "Sacramento, CA, United States",
+        "date": "2026-11-01",
+        "id": 2701,
+        "origin": "search",
+        "sourceUrl": "https://www.axs.com/au/artists/1105653/mom-jeans-tickets",
+        "venue": "Channel 24"
+      },
+      {
         "bandId": 8,
         "city": "Denver, CO",
         "date": "2026-11-02",
-        "id": 2162,
+        "id": 2638,
         "origin": "search",
         "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
         "venue": "Mission Ballroom"
       },
       {
-        "bandId": 17,
-        "city": "Asheville, NC",
+        "bandId": 22,
+        "city": "Boston, MA",
         "date": "2026-11-03",
-        "id": 1911,
+        "id": 2464,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "The Orange Peel"
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "House of Blues Boston – Music Hall"
       },
       {
         "bandId": 30,
         "city": "Worcester, MA",
         "date": "2026-11-03",
-        "id": 1947,
+        "id": 2646,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
         "venue": "Palladium-MA"
       },
       {
-        "bandId": 22,
-        "city": "Boston, MA",
-        "date": "2026-11-03",
-        "id": 2050,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "House of Blues Boston \u2013 Music Hall"
-      },
-      {
         "bandId": 17,
-        "city": "Louisville, KY",
-        "date": "2026-11-04",
-        "id": 1912,
+        "city": "Asheville, NC",
+        "date": "2026-11-03",
+        "id": 2679,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Mercury Ballroom"
-      },
-      {
-        "bandId": 30,
-        "city": "Portland, ME",
-        "date": "2026-11-04",
-        "id": 1948,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "State Theatre"
+        "venue": "The Orange Peel"
       },
       {
         "bandId": 22,
         "city": "Sayreville, NJ",
         "date": "2026-11-04",
-        "id": 2051,
+        "id": 2465,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Starland Ballroom"
       },
       {
+        "bandId": 30,
+        "city": "Portland, ME",
+        "date": "2026-11-04",
+        "id": 2647,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "State Theatre"
+      },
+      {
         "bandId": 17,
-        "city": "Nashville, TN",
-        "date": "2026-11-05",
-        "id": 1913,
+        "city": "Louisville, KY",
+        "date": "2026-11-04",
+        "id": 2680,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Cannery Hall"
+        "venue": "Mercury Ballroom"
+      },
+      {
+        "bandId": 20,
+        "city": "St. Louis, MO",
+        "date": "2026-11-05",
+        "id": 2561,
+        "origin": "search",
+        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
+        "venue": "The Pageant"
       },
       {
         "bandId": 2,
         "city": "Los Angeles, CA",
         "date": "2026-11-05",
-        "id": 2145,
+        "id": 2632,
         "origin": "search",
         "sourceUrl": "https://eventsliker.com/rock-on-fall-out-boy-tour-2026-unveiled/",
         "venue": "Hollywood Bowl"
@@ -871,313 +790,286 @@
         "bandId": 2,
         "city": "New York, NY",
         "date": "2026-11-05",
-        "id": 2147,
+        "id": 2633,
         "origin": "search",
         "sourceUrl": "https://eventsliker.com/fall-out-boy-2026-tour-setlist/",
         "venue": "Madison Square Garden"
       },
       {
-        "bandId": 20,
-        "city": "St. Louis, MO",
-        "date": "2026-11-05",
-        "id": 2187,
-        "origin": "search",
-        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
-        "venue": "The Pageant"
-      },
-      {
         "bandId": 17,
-        "city": "Atlanta, GA",
-        "date": "2026-11-06",
-        "id": 1914,
+        "city": "Nashville, TN",
+        "date": "2026-11-05",
+        "id": 2681,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "The Masquerade"
-      },
-      {
-        "bandId": 17,
-        "city": "Atlanta, GA",
-        "date": "2026-11-06",
-        "id": 1935,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "The Masquerade - Heaven"
-      },
-      {
-        "bandId": 30,
-        "city": "Providence, RI",
-        "date": "2026-11-06",
-        "id": 1949,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "Strand Theatre-RI"
+        "venue": "Cannery Hall"
       },
       {
         "bandId": 22,
         "city": "Philadelphia, PA",
         "date": "2026-11-06",
-        "id": 2052,
+        "id": 2466,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "The Fillmore Philadelphia"
       },
       {
-        "bandId": 8,
-        "city": "Las Vegas, NV",
-        "date": "2026-11-06",
-        "id": 2163,
-        "origin": "search",
-        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
-        "venue": "The Theater at Virgin Hotels"
-      },
-      {
         "bandId": 20,
         "city": "Oklahoma City, OK",
         "date": "2026-11-06",
-        "id": 2188,
+        "id": 2562,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Criterion"
       },
       {
-        "bandId": 4,
-        "city": "Hollywood, CA, United States",
-        "date": "2026-11-07",
-        "id": 1895,
+        "bandId": 8,
+        "city": "Las Vegas, NV",
+        "date": "2026-11-06",
+        "id": 2639,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/jimmy-eat-world-tickets/artist/779154?irgwc=1&utm_source=221109-Future+PLC.&utm_medium=affiliate&utm_campaign=221109&awtrc&camefrom=CFC_BUYAT_221109&ircid=7559&clickId",
+        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
+        "venue": "The Theater at Virgin Hotels"
+      },
+      {
+        "bandId": 30,
+        "city": "Providence, RI",
+        "date": "2026-11-06",
+        "id": 2648,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "Strand Theatre-RI"
+      },
+      {
+        "bandId": 17,
+        "city": "Atlanta, GA",
+        "date": "2026-11-06",
+        "id": 2682,
+        "origin": "search",
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "The Masquerade"
+      },
+      {
+        "bandId": 22,
+        "city": "New York, NY",
+        "date": "2026-11-07",
+        "id": 2467,
+        "origin": "search",
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "Manhattan Center Hammerstein Ballroom"
+      },
+      {
+        "bandId": 20,
+        "city": "Albuquerque, NM",
+        "date": "2026-11-07",
+        "id": 2563,
+        "origin": "search",
+        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
+        "venue": "Revel Entertainment Center"
+      },
+      {
+        "bandId": 12,
+        "city": "San Diego, CA",
+        "date": "2026-11-07",
+        "id": 2607,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/afi-tickets/artist/783767?irgwc=1&clickid=QxAwe7ysxxycUt6xv43L9x1jUkp2UqQuCwwI1Q0&camefrom=CFC_BUYAT_2939647&impradid=2939647&REFERRAL_ID=tmfeedbuyat2939647&wt.mc_id=aff_BUYAT_2939647&utm_source=2939647-Cory+Brennan&impradname=Cory+Brennan&utm_medium=affiliate&ircid=4272",
+        "venue": "Petco Park Dia de los DEFTONES"
+      },
+      {
+        "bandId": 8,
+        "city": "Anaheim, CA",
+        "date": "2026-11-07",
+        "id": 2640,
+        "origin": "search",
+        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
+        "venue": "Honda Center"
+      },
+      {
+        "bandId": 30,
+        "city": "New Haven, CT",
+        "date": "2026-11-07",
+        "id": 2649,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "College Street Music Hall"
+      },
+      {
+        "bandId": 4,
+        "city": "Hollywood, CA",
+        "date": "2026-11-07",
+        "id": 2661,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/jimmy-eat-world-tickets/artist/779154",
         "venue": "Hollywood Bowl"
       },
       {
         "bandId": 17,
         "city": "Birmingham, AL",
         "date": "2026-11-07",
-        "id": 1915,
+        "id": 2683,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
         "venue": "Iron City"
       },
       {
-        "bandId": 30,
-        "city": "New Haven, CT",
+        "bandId": 1,
+        "city": "Incheon, South Korea",
         "date": "2026-11-07",
-        "id": 1950,
+        "id": 2705,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "College Street Music Hall"
+        "sourceUrl": "https://www.jambase.com/show/my-chemical-romance-paradise-city-korea-20261107",
+        "venue": "Paradise City Korea"
       },
       {
         "bandId": 14,
         "city": "Pensacola, FL",
         "date": "2026-11-07",
-        "id": 1974,
+        "id": 2715,
         "origin": "search",
-        "sourceUrl": "https://www.vividseats.com/motion-city-soundtrack-tickets/performer/4284",
-        "venue": "The Handlebar - Pensacola"
-      },
-      {
-        "bandId": 1,
-        "city": "Incheon, Korea, Republic Of",
-        "date": "2026-11-07",
-        "id": 1980,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Paradise City Korea"
+        "sourceUrl": "https://concerts.hypebot.com/artist/m/95-motion-city-soundtrack",
+        "venue": "Handlebar"
       },
       {
         "bandId": 22,
-        "city": "New York, NY",
-        "date": "2026-11-07",
-        "id": 2053,
+        "city": "Baltimore, MD",
+        "date": "2026-11-08",
+        "id": 2468,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "Manhattan Center Hammerstein Ballroom"
-      },
-      {
-        "bandId": 8,
-        "city": "Anaheim, CA",
-        "date": "2026-11-07",
-        "id": 2164,
-        "origin": "search",
-        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
-        "venue": "Honda Center"
-      },
-      {
-        "bandId": 20,
-        "city": "Albuquerque, NM",
-        "date": "2026-11-07",
-        "id": 2189,
-        "origin": "search",
-        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
-        "venue": "Revel Entertainment Center"
+        "venue": "Nevermore Hall"
       },
       {
         "bandId": 17,
         "city": "New Orleans, LA",
         "date": "2026-11-08",
-        "id": 1916,
+        "id": 2684,
         "origin": "search",
         "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
         "venue": "House of Blues"
       },
       {
-        "bandId": 17,
-        "city": "New Orleans, LA",
-        "date": "2026-11-08",
-        "id": 1936,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/K8vZ9175ww7",
-        "venue": "House of Blues New Orleans"
-      },
-      {
         "bandId": 27,
         "city": "Stockholm, Sweden",
         "date": "2026-11-08",
-        "id": 1937,
+        "id": 2686,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
         "venue": "Hovet"
-      },
-      {
-        "bandId": 22,
-        "city": "Baltimore, MD",
-        "date": "2026-11-08",
-        "id": 2054,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "Nevermore Hall"
-      },
-      {
-        "bandId": 25,
-        "city": "Stockholm, Sweden",
-        "date": "2026-11-08",
-        "id": 2217,
-        "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "Hovet"
-      },
-      {
-        "bandId": 30,
-        "city": "Baltimore, MD",
-        "date": "2026-11-09",
-        "id": 1951,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "Nevermore Hall"
       },
       {
         "bandId": 20,
         "city": "Phoenix, AZ",
         "date": "2026-11-09",
-        "id": 2190,
+        "id": 2564,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Arizona Financial Theatre"
       },
       {
-        "bandId": 17,
-        "city": "Pensacola, FL",
-        "date": "2026-11-10",
-        "id": 1917,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
-        "venue": "Vinyl Music Hall"
-      },
-      {
         "bandId": 30,
-        "city": "Charlotte, NC",
-        "date": "2026-11-10",
-        "id": 1952,
+        "city": "Baltimore, MD",
+        "date": "2026-11-09",
+        "id": 2650,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "The Fillmore Charlotte"
-      },
-      {
-        "bandId": 1,
-        "city": "Singapore, Singapore",
-        "date": "2026-11-10",
-        "id": 1981,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Singapore Indoor Stadium"
+        "venue": "Nevermore Hall"
       },
       {
         "bandId": 20,
         "city": "San Diego, CA",
         "date": "2026-11-10",
-        "id": 2191,
+        "id": 2565,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "SOMA"
       },
       {
-        "bandId": 27,
-        "city": "Munich, Germany",
-        "date": "2026-11-11",
-        "id": 1938,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "Zenith"
-      },
-      {
         "bandId": 30,
-        "city": "Charleston, SC",
-        "date": "2026-11-11",
-        "id": 1953,
+        "city": "Charlotte, NC",
+        "date": "2026-11-10",
+        "id": 2651,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "The Charleston Music Hall"
+        "venue": "The Fillmore Charlotte"
+      },
+      {
+        "bandId": 17,
+        "city": "Pensacola, FL",
+        "date": "2026-11-10",
+        "id": 2685,
+        "origin": "search",
+        "sourceUrl": "https://lambgoat.com/news/52235/hawthorne-heights-expand-2026-touring-schedule-with-us-tour-dates-ft-letlive-and-creeper/",
+        "venue": "Vinyl Music Hall"
+      },
+      {
+        "bandId": 1,
+        "city": "Singapore, Singapore",
+        "date": "2026-11-10",
+        "id": 2706,
+        "origin": "search",
+        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Singapore Indoor Stadium"
       },
       {
         "bandId": 22,
         "city": "Charlotte, NC",
         "date": "2026-11-11",
-        "id": 2055,
+        "id": 2469,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "The Fillmore Charlotte"
       },
       {
+        "bandId": 25,
+        "city": "Munich, Germany",
+        "date": "2026-11-11",
+        "id": 2537,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
+        "venue": "Zenith"
+      },
+      {
         "bandId": 8,
         "city": "San Francisco, CA",
         "date": "2026-11-11",
-        "id": 2165,
+        "id": 2641,
         "origin": "search",
         "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
         "venue": "Bill Graham Civic Auditorium"
       },
       {
-        "bandId": 25,
+        "bandId": 30,
+        "city": "Charleston, SC",
+        "date": "2026-11-11",
+        "id": 2652,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "The Charleston Music Hall"
+      },
+      {
+        "bandId": 27,
         "city": "Munich, Germany",
         "date": "2026-11-11",
-        "id": 2218,
+        "id": 2687,
         "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
         "venue": "Zenith"
       },
       {
-        "bandId": 4,
-        "city": "Nashville, TN, United States",
-        "date": "2026-11-12",
-        "id": 1896,
+        "bandId": 1,
+        "city": "Singapore, Singapore",
+        "date": "2026-11-11",
+        "id": 2707,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/jimmy-eat-world-tickets/artist/779154?irgwc=1&utm_source=221109-Future+PLC.&utm_medium=affiliate&utm_campaign=221109&awtrc&camefrom=CFC_BUYAT_221109&ircid=7559&clickId",
-        "venue": "The Truth"
-      },
-      {
-        "bandId": 17,
-        "city": "St. Petersburg, FL",
-        "date": "2026-11-12",
-        "id": 1918,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Jannus Live"
+        "sourceUrl": "https://ventsmagazine.com/2026/10/16/my-chemical-romance-share-never-before-released-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Singapore Indoor Stadium"
       },
       {
         "bandId": 22,
         "city": "Atlanta, GA",
         "date": "2026-11-12",
-        "id": 2056,
+        "id": 2470,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "The Eastern"
@@ -1186,106 +1078,178 @@
         "bandId": 20,
         "city": "Las Vegas, NV",
         "date": "2026-11-12",
-        "id": 2192,
+        "id": 2566,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Brooklyn Bowl"
       },
       {
-        "bandId": 17,
-        "city": "Fort Lauderdale, FL",
-        "date": "2026-11-13",
-        "id": 1919,
+        "bandId": 4,
+        "city": "Nashville, TN",
+        "date": "2026-11-12",
+        "id": 2662,
         "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Revolution Live"
+        "sourceUrl": "https://www.ticketmaster.com/jimmy-eat-world-tickets/artist/779154",
+        "venue": "The Truth"
       },
       {
-        "bandId": 27,
+        "bandId": 25,
         "city": "Forest (Brussels), Belgium",
         "date": "2026-11-13",
-        "id": 1939,
+        "id": 2538,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
         "venue": "Vorst Nationaal/Forest National"
-      },
-      {
-        "bandId": 30,
-        "city": "Miami Beach, FL",
-        "date": "2026-11-13",
-        "id": 1954,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "Miami Beach Bandshell"
       },
       {
         "bandId": 20,
         "city": "Los Angeles, CA",
         "date": "2026-11-13",
-        "id": 2193,
+        "id": 2567,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Hollywood Palladium"
       },
       {
-        "bandId": 25,
-        "city": "Forest, Belgium",
+        "bandId": 30,
+        "city": "Miami Beach, FL",
         "date": "2026-11-13",
-        "id": 2219,
+        "id": 2653,
         "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "Vorst Nationaal/Forest National"
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "Miami Beach Bandshell"
+      },
+      {
+        "bandId": 27,
+        "city": "Brussels, Belgium",
+        "date": "2026-11-13",
+        "id": 2688,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "Forest National"
+      },
+      {
+        "bandId": 22,
+        "city": "Orlando, FL",
+        "date": "2026-11-14",
+        "id": 2471,
+        "origin": "search",
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "Vans Warped Tour"
+      },
+      {
+        "bandId": 5,
+        "city": "Orlando, FL",
+        "date": "2026-11-14",
+        "id": 2503,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/taking-back-sunday-billets/artist/826874",
+        "venue": "Camping World Stadium"
+      },
+      {
+        "bandId": 7,
+        "city": "Orlando, FL",
+        "date": "2026-11-14",
+        "id": 2524,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/the-used-billets/artist/849503",
+        "venue": "Camping World Stadium"
+      },
+      {
+        "bandId": 10,
+        "city": "Orlando, FL",
+        "date": "2026-11-14",
+        "id": 2529,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/thrice-tickets/artist/836302?msockid=0d1877e2fd8b6bfb2b1d63a2fca66ae1",
+        "venue": "Camping World Stadium"
+      },
+      {
+        "bandId": 25,
+        "city": "Düsseldorf, Germany",
+        "date": "2026-11-14",
+        "id": 2539,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
+        "venue": "Mitsubishi Electric HALLE"
+      },
+      {
+        "bandId": 20,
+        "city": "San Francisco, CA",
+        "date": "2026-11-14",
+        "id": 2568,
+        "origin": "search",
+        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
+        "venue": "The Masonic"
       },
       {
         "bandId": 13,
-        "city": "Marston Green, EN, United Kingdom",
+        "city": "Birmingham, England, United Kingdom",
         "date": "2026-11-14",
-        "id": 1881,
+        "id": 2627,
         "origin": "search",
-        "sourceUrl": "https://allevents.in/performer/coheed-and-cambria?ref=event-page-faqs",
+        "sourceUrl": "https://www.concertarchives.org/bands/coheed-and-cambria",
         "venue": "bp pulse LIVE"
       },
       {
-        "bandId": 4,
-        "city": "Orlando, FL, United States",
+        "bandId": 8,
+        "city": "Phoenix, AZ",
         "date": "2026-11-14",
-        "id": 1897,
+        "id": 2642,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/jimmy-eat-world-tickets/artist/779154?irgwc=1&utm_source=221109-Future+PLC.&utm_medium=affiliate&utm_campaign=221109&awtrc&camefrom=CFC_BUYAT_221109&ircid=7559&clickId",
+        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
+        "venue": "Arizona Financial Theatre"
+      },
+      {
+        "bandId": 30,
+        "city": "Tampa, FL",
+        "date": "2026-11-14",
+        "id": 2654,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds"
+      },
+      {
+        "bandId": 4,
+        "city": "Orlando, FL",
+        "date": "2026-11-14",
+        "id": 2663,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/jimmy-eat-world-tickets/artist/779154",
         "venue": "Camping World Stadium"
       },
       {
         "bandId": 4,
-        "city": "Tampa, FL, United States",
+        "city": "Tampa, FL",
         "date": "2026-11-14",
-        "id": 1898,
+        "id": 2664,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/jimmy-eat-world-tickets/artist/779154?irgwc=1&utm_source=221109-Future+PLC.&utm_medium=affiliate&utm_campaign=221109&awtrc&camefrom=CFC_BUYAT_221109&ircid=7559&clickId",
+        "sourceUrl": "https://www.ticketmaster.com/jimmy-eat-world-tickets/artist/779154",
         "venue": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds"
       },
       {
-        "bandId": 17,
-        "city": "Orlando, FL",
+        "bandId": 27,
+        "city": "Düsseldorf, Germany",
         "date": "2026-11-14",
-        "id": 1920,
+        "id": 2689,
         "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Vans Warped Tour"
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "Mitsubishi Electric HALLE"
       },
       {
-        "bandId": 27,
-        "city": "D\u00fcsseldorf, Germany",
+        "bandId": 1,
+        "city": "Manila, Philippines",
         "date": "2026-11-14",
-        "id": 1940,
+        "id": 2708,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "Mitsubishi Electric HALLE"
+        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Philippine Arena"
       },
       {
         "bandId": 24,
         "city": "Orlando",
         "date": "2026-11-14",
-        "id": 1971,
+        "id": 2713,
         "origin": "search",
         "sourceUrl": "https://www.shazam.com/artist/new-found-glory/65551",
         "venue": "Camping World Stadium"
@@ -1294,214 +1258,70 @@
         "bandId": 14,
         "city": "Orlando, Florida, United States",
         "date": "2026-11-14",
-        "id": 1975,
+        "id": 2716,
         "origin": "search",
         "sourceUrl": "https://www.concertarchives.org/bands/motion-city-soundtrack?page=1",
         "venue": "Tinker Field History Plaza"
       },
       {
-        "bandId": 1,
-        "city": "Manila, Philippines",
-        "date": "2026-11-14",
-        "id": 1982,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Philippine Arena"
-      },
-      {
-        "bandId": 22,
-        "city": "Orlando, FL",
-        "date": "2026-11-14",
-        "id": 2057,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "Vans Warped Tour"
-      },
-      {
-        "bandId": 5,
-        "city": "Orlando, FL",
-        "date": "2026-11-14",
-        "id": 2114,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/taking-back-sunday-billets/artist/826874",
-        "venue": "Camping World Stadium"
-      },
-      {
-        "bandId": 8,
-        "city": "Phoenix, AZ",
-        "date": "2026-11-14",
-        "id": 2166,
-        "origin": "search",
-        "sourceUrl": "https://seatgeek.com/blog/what-to-expect-at-brand-news-the-devil-and-god-raging-inside-me-tour-full-setlist-start-time-and-more",
-        "venue": "Arizona Financial Theatre"
-      },
-      {
-        "bandId": 7,
-        "city": "Orlando, FL",
-        "date": "2026-11-14",
-        "id": 2169,
-        "origin": "search",
-        "sourceUrl": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date/",
-        "venue": "Vans Warped Tour Orlando"
-      },
-      {
-        "bandId": 10,
-        "city": "Burnsville",
-        "date": "2026-11-14",
-        "id": 2180,
-        "origin": "search",
-        "sourceUrl": "https://tixel.com/ca/music-tickets/thrice",
-        "venue": "Ames Center"
-      },
-      {
-        "bandId": 20,
-        "city": "San Francisco, CA",
-        "date": "2026-11-14",
-        "id": 2194,
-        "origin": "search",
-        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
-        "venue": "The Masonic"
-      },
-      {
-        "bandId": 25,
-        "city": "Dusseldorf, Germany",
-        "date": "2026-11-14",
-        "id": 2220,
-        "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "Mitsubishi Electric Hall"
-      },
-      {
-        "bandId": 24,
-        "city": "",
-        "date": "2026-11-15",
-        "id": 1972,
-        "origin": "search",
-        "sourceUrl": "https://www.bandsintown.com/a/175-new-found-glory?utm_medium&utm_source&utm_campaign&came_from=206",
-        "venue": "Camping World Stadium"
-      },
-      {
         "bandId": 5,
         "city": "Orlando, FL",
         "date": "2026-11-15",
-        "id": 2115,
+        "id": 2504,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Vans Warped Tour"
       },
       {
-        "bandId": 10,
-        "city": "Sioux City",
-        "date": "2026-11-15",
-        "id": 2181,
+        "bandId": 19,
+        "city": "Seattle, WA",
+        "date": "2026-11-16",
+        "id": 2416,
         "origin": "search",
-        "sourceUrl": "https://tixel.com/ca/music-tickets/thrice",
-        "venue": "Orpheum Theatre Sioux City"
+        "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
+        "venue": "Showbox SODO"
+      },
+      {
+        "bandId": 25,
+        "city": "Amsterdam, Netherlands",
+        "date": "2026-11-16",
+        "id": 2540,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
+        "venue": "AFAS Live"
+      },
+      {
+        "bandId": 20,
+        "city": "Seattle, WA",
+        "date": "2026-11-16",
+        "id": 2569,
+        "origin": "search",
+        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
+        "venue": "Paramount Theatre"
       },
       {
         "bandId": 13,
-        "city": "Glasgow, United Kingdom",
+        "city": "Glasgow, Scotland, United Kingdom",
         "date": "2026-11-16",
-        "id": 1884,
+        "id": 2628,
         "origin": "search",
-        "sourceUrl": "https://concerts.hypebot.com/artist/c/129-coheed-and-cambria",
+        "sourceUrl": "https://www.concertarchives.org/bands/coheed-and-cambria",
         "venue": "OVO Hydro"
       },
       {
         "bandId": 27,
         "city": "Amsterdam, Netherlands",
         "date": "2026-11-16",
-        "id": 1941,
+        "id": 2690,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
         "venue": "AFAS Live"
-      },
-      {
-        "bandId": 19,
-        "city": "Seattle, WA",
-        "date": "2026-11-16",
-        "id": 2022,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
-        "venue": "Showbox SODO"
-      },
-      {
-        "bandId": 10,
-        "city": "Des Moines",
-        "date": "2026-11-16",
-        "id": 2182,
-        "origin": "search",
-        "sourceUrl": "https://tixel.com/ca/music-tickets/thrice",
-        "venue": "Hoyt Sherman Place"
-      },
-      {
-        "bandId": 20,
-        "city": "Seattle, WA",
-        "date": "2026-11-16",
-        "id": 2195,
-        "origin": "search",
-        "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
-        "venue": "Paramount Theatre"
-      },
-      {
-        "bandId": 25,
-        "city": "Amsterdam, Netherlands",
-        "date": "2026-11-16",
-        "id": 2221,
-        "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "AFAS Live"
-      },
-      {
-        "bandId": 13,
-        "city": "Nottingham, United Kingdom",
-        "date": "2026-11-17",
-        "id": 1885,
-        "origin": "search",
-        "sourceUrl": "https://concerts.hypebot.com/artist/c/129-coheed-and-cambria",
-        "venue": "Motorpoint Arena"
-      },
-      {
-        "bandId": 17,
-        "city": "Indianapolis, IN",
-        "date": "2026-11-17",
-        "id": 1921,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "The Vogue"
-      },
-      {
-        "bandId": 27,
-        "city": "Paris, 75, France",
-        "date": "2026-11-17",
-        "id": 1942,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "ZENITH PARIS - LA VILLETTE"
-      },
-      {
-        "bandId": 30,
-        "city": "New Orleans, LA",
-        "date": "2026-11-17",
-        "id": 1955,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "Civic Theatre"
-      },
-      {
-        "bandId": 1,
-        "city": "Bangkok, Thailand",
-        "date": "2026-11-17",
-        "id": 1983,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Impact Challenger Hall 1"
       },
       {
         "bandId": 16,
         "city": "Bristol",
         "date": "2026-11-17",
-        "id": 1985,
+        "id": 2381,
         "origin": "search",
         "sourceUrl": "https://www.nme.com/news/music/saves-the-day-announce-stay-what-you-are-25th-anniversary-uk-tour-3953930",
         "venue": "Trinity"
@@ -1510,7 +1330,7 @@
         "bandId": 19,
         "city": "Spokane, WA",
         "date": "2026-11-17",
-        "id": 2023,
+        "id": 2417,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Knitting Factory - Spokane"
@@ -1519,79 +1339,61 @@
         "bandId": 20,
         "city": "Vancouver, BC",
         "date": "2026-11-17",
-        "id": 2196,
+        "id": 2570,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "PNE Forum"
       },
       {
-        "bandId": 25,
+        "bandId": 13,
+        "city": "Nottingham, England, United Kingdom",
+        "date": "2026-11-17",
+        "id": 2629,
+        "origin": "search",
+        "sourceUrl": "https://www.concertarchives.org/bands/coheed-and-cambria",
+        "venue": "Motorpoint Arena Nottingham"
+      },
+      {
+        "bandId": 30,
+        "city": "New Orleans, LA",
+        "date": "2026-11-17",
+        "id": 2655,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "Civic Theatre"
+      },
+      {
+        "bandId": 27,
         "city": "Paris, France",
         "date": "2026-11-17",
-        "id": 2222,
+        "id": 2691,
         "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "Zenith Paris \u2013 La Villette"
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "Zenith Paris La Villette"
+      },
+      {
+        "bandId": 1,
+        "city": "Bangkok, Thailand",
+        "date": "2026-11-17",
+        "id": 2709,
+        "origin": "search",
+        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Impact Challenger Hall 1"
       },
       {
         "bandId": 16,
         "city": "London",
         "date": "2026-11-18",
-        "id": 1986,
+        "id": 2382,
         "origin": "search",
         "sourceUrl": "https://www.nme.com/news/music/saves-the-day-announce-stay-what-you-are-25th-anniversary-uk-tour-3953930",
         "venue": "Electric Brixton"
       },
       {
-        "bandId": 13,
-        "city": "Harrow, EN, United Kingdom",
-        "date": "2026-11-19",
-        "id": 1882,
-        "origin": "search",
-        "sourceUrl": "https://allevents.in/performer/coheed-and-cambria?ref=event-page-faqs",
-        "venue": "OVO Arena Wembley"
-      },
-      {
-        "bandId": 27,
-        "city": "London",
-        "date": "2026-11-19",
-        "id": 1943,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "The O2"
-      },
-      {
-        "bandId": 30,
-        "city": "Birmingham, AL",
-        "date": "2026-11-19",
-        "id": 1956,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "Iron City"
-      },
-      {
-        "bandId": 30,
-        "city": "Birmingham, AL",
-        "date": "2026-11-19",
-        "id": 1962,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/hot-mulligan-tickets/artist/2345567?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
-        "venue": "Avondale Brewing Co."
-      },
-      {
-        "bandId": 1,
-        "city": "Kuala Lumpur, Malaysia",
-        "date": "2026-11-19",
-        "id": 1984,
-        "origin": "search",
-        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
-        "venue": "Bukit Jalil National Stadium"
-      },
-      {
         "bandId": 16,
         "city": "Nottingham",
         "date": "2026-11-19",
-        "id": 1987,
+        "id": 2383,
         "origin": "search",
         "sourceUrl": "https://www.nme.com/news/music/saves-the-day-announce-stay-what-you-are-25th-anniversary-uk-tour-3953930",
         "venue": "Palais"
@@ -1600,79 +1402,79 @@
         "bandId": 18,
         "city": "Los Angeles, CA",
         "date": "2026-11-19",
-        "id": 1999,
+        "id": 2393,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://redlightmanagement.com/artists/senses-fail/",
         "venue": "The Belasco Theater"
       },
       {
         "bandId": 19,
         "city": "Wheatland, CA",
         "date": "2026-11-19",
-        "id": 2024,
+        "id": 2418,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Hard Rock Live Sacramento"
       },
       {
+        "bandId": 25,
+        "city": "London, United Kingdom",
+        "date": "2026-11-19",
+        "id": 2541,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
+        "venue": "The O2"
+      },
+      {
         "bandId": 20,
         "city": "Salt Lake City, UT",
         "date": "2026-11-19",
-        "id": 2197,
+        "id": 2571,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Union Event Center"
       },
       {
-        "bandId": 25,
-        "city": "London, UK",
-        "date": "2026-11-19",
-        "id": 2223,
-        "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "The O2"
-      },
-      {
         "bandId": 13,
-        "city": "Manchester, United Kingdom",
-        "date": "2026-11-20",
-        "id": 1886,
+        "city": "London, England, United Kingdom",
+        "date": "2026-11-19",
+        "id": 2630,
         "origin": "search",
-        "sourceUrl": "https://concerts.hypebot.com/artist/c/129-coheed-and-cambria",
-        "venue": "AO Arena"
-      },
-      {
-        "bandId": 17,
-        "city": "Fort Wayne, IN",
-        "date": "2026-11-20",
-        "id": 1922,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Clyde Theatre"
-      },
-      {
-        "bandId": 27,
-        "city": "Manchester",
-        "date": "2026-11-20",
-        "id": 1944,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "Co-op Live"
+        "sourceUrl": "https://www.concertarchives.org/bands/coheed-and-cambria",
+        "venue": "OVO Arena Wembley"
       },
       {
         "bandId": 30,
-        "city": "Nashville, TN",
-        "date": "2026-11-20",
-        "id": 1957,
+        "city": "Birmingham, AL",
+        "date": "2026-11-19",
+        "id": 2656,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
-        "venue": "The Truth"
+        "venue": "Iron City"
+      },
+      {
+        "bandId": 27,
+        "city": "London, United Kingdom",
+        "date": "2026-11-19",
+        "id": 2692,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "The O2"
+      },
+      {
+        "bandId": 1,
+        "city": "Kuala Lumpur, Malaysia",
+        "date": "2026-11-19",
+        "id": 2710,
+        "origin": "search",
+        "sourceUrl": "https://chaoszine.net/my-chemical-romance-releases-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Bukit Jalil National Stadium"
       },
       {
         "bandId": 16,
         "city": "Glasgow",
         "date": "2026-11-20",
-        "id": 1988,
+        "id": 2384,
         "origin": "search",
         "sourceUrl": "https://www.nme.com/news/music/saves-the-day-announce-stay-what-you-are-25th-anniversary-uk-tour-3953930",
         "venue": "Slay"
@@ -1681,79 +1483,88 @@
         "bandId": 21,
         "city": "Mexico City, Mexico",
         "date": "2026-11-20",
-        "id": 1992,
+        "id": 2387,
         "origin": "search",
         "sourceUrl": "https://www.loudmemories.com/artists/pierce-the-veil-18365",
         "venue": "Festival Corona Capital 2026"
       },
       {
-        "bandId": 21,
-        "city": "M\u00e9xico, CDMX, Mexico",
-        "date": "2026-11-20",
-        "id": 1997,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.de/artist/pierce-the-veil-tickets/415153?language=en-us",
-        "venue": "Autodromo Hnos. Rodriguez"
-      },
-      {
         "bandId": 18,
         "city": "Las Vegas, NV",
         "date": "2026-11-20",
-        "id": 2000,
+        "id": 2394,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "House Of Blues"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "House of Blues"
       },
       {
         "bandId": 25,
-        "city": "Manchester, UK",
+        "city": "Manchester, United Kingdom",
         "date": "2026-11-20",
-        "id": 2224,
+        "id": 2542,
         "origin": "search",
-        "sourceUrl": "https://ghostcultmag.com/yellowcard-share-a-single-and-video-for-calvary-drive-new-album-incoming/",
-        "venue": "Co-Op Live"
+        "sourceUrl": "https://www.ticketmaster.com/yellowcard-tickets/artist/831041?ac_link=blog",
+        "venue": "Co-op Live"
       },
       {
-        "bandId": 17,
-        "city": "Grands Rapids, MI",
-        "date": "2026-11-21",
-        "id": 1923,
+        "bandId": 13,
+        "city": "Manchester, England, United Kingdom",
+        "date": "2026-11-20",
+        "id": 2631,
         "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Elevation"
+        "sourceUrl": "https://www.concertarchives.org/bands/coheed-and-cambria",
+        "venue": "AO Arena"
+      },
+      {
+        "bandId": 30,
+        "city": "Nashville, TN",
+        "date": "2026-11-20",
+        "id": 2657,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "The Truth"
+      },
+      {
+        "bandId": 27,
+        "city": "Manchester, United Kingdom",
+        "date": "2026-11-20",
+        "id": 2693,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "Co-op Live"
+      },
+      {
+        "bandId": 1,
+        "city": "Kuala Lumpur, Malaysia",
+        "date": "2026-11-20",
+        "id": 2711,
+        "origin": "search",
+        "sourceUrl": "https://ventsmagazine.com/2026/10/16/my-chemical-romance-share-never-before-released-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Bukit Jalil National Football Stadium"
       },
       {
         "bandId": 16,
         "city": "Liverpool",
         "date": "2026-11-21",
-        "id": 1989,
+        "id": 2385,
         "origin": "search",
         "sourceUrl": "https://www.nme.com/news/music/saves-the-day-announce-stay-what-you-are-25th-anniversary-uk-tour-3953930",
         "venue": "Loud & Clear Festival"
       },
       {
-        "bandId": 21,
-        "city": "M\u00e9xico, CDMX, Mexico",
-        "date": "2026-11-21",
-        "id": 1998,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.de/artist/pierce-the-veil-tickets/415153?language=en-us",
-        "venue": "Autodromo Hnos. Rodriguez"
-      },
-      {
         "bandId": 18,
         "city": "San Diego, CA",
         "date": "2026-11-21",
-        "id": 2001,
+        "id": 2395,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "The Observatory"
+        "sourceUrl": "https://redlightmanagement.com/artists/senses-fail/",
+        "venue": "The Observatory North Park"
       },
       {
         "bandId": 19,
         "city": "Riverside, CA",
         "date": "2026-11-21",
-        "id": 2025,
+        "id": 2419,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Riverside Municipal Auditorium"
@@ -1762,88 +1573,70 @@
         "bandId": 20,
         "city": "Denver, CO",
         "date": "2026-11-21",
-        "id": 2198,
+        "id": 2572,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Fillmore Auditorium"
       },
       {
-        "bandId": 17,
-        "city": "Detroit, MI",
-        "date": "2026-11-22",
-        "id": 1924,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Saint Andrew\u2019s Hall"
-      },
-      {
         "bandId": 19,
         "city": "Los Angeles, CA",
         "date": "2026-11-22",
-        "id": 2026,
+        "id": 2420,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "The Wiltern"
       },
       {
         "bandId": 7,
-        "city": "Khet Huai Khwang, Thailand",
+        "city": "Khet Huai Khwang, Krung Thep Maha Nakhon",
         "date": "2026-11-22",
-        "id": 2170,
+        "id": 2525,
         "origin": "search",
-        "sourceUrl": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date/",
-        "venue": "Nowhere District"
+        "sourceUrl": "https://concerts.hypebot.com/artist/u/155-the-used",
+        "venue": "Idea Live"
       },
       {
-        "bandId": 17,
-        "city": "Kansas City, MO",
-        "date": "2026-11-23",
-        "id": 1925,
+        "bandId": 1,
+        "city": "Jakarta, Indonesia",
+        "date": "2026-11-22",
+        "id": 2712,
         "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "Warehouse on Broadway"
+        "sourceUrl": "https://ventsmagazine.com/2026/10/16/my-chemical-romance-share-never-before-released-someone-out-there-loves-you-live-from-hoboken/",
+        "venue": "Jakarta International Stadium"
       },
       {
         "bandId": 18,
         "city": "Portland, OR",
         "date": "2026-11-23",
-        "id": 2002,
+        "id": 2396,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Revolution Hall"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "Crystal Ballroom"
       },
       {
         "bandId": 20,
         "city": "Minneapolis, MN",
         "date": "2026-11-23",
-        "id": 2199,
+        "id": 2573,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Armory"
       },
       {
-        "bandId": 17,
-        "city": "Tulsa, OK",
-        "date": "2026-11-24",
-        "id": 1926,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "The Vanguard"
-      },
-      {
         "bandId": 18,
         "city": "Seattle, WA",
         "date": "2026-11-24",
-        "id": 2003,
+        "id": 2397,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Neptune Theatre"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "The Neptune Theatre"
       },
       {
         "bandId": 19,
         "city": "Albuquerque, NM",
         "date": "2026-11-24",
-        "id": 2027,
+        "id": 2421,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Sunshine Theatre"
@@ -1852,25 +1645,16 @@
         "bandId": 20,
         "city": "Chicago, IL",
         "date": "2026-11-24",
-        "id": 2200,
+        "id": 2574,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Aragon Ballroom"
       },
       {
-        "bandId": 17,
-        "city": "St. Louis, MO",
-        "date": "2026-11-25",
-        "id": 1927,
-        "origin": "search",
-        "sourceUrl": "https://hmmagazine.com/hawthorne-heights-expands-if-only-you-were-lonely-20th-anniversary-tour/",
-        "venue": "The Hawthorn"
-      },
-      {
         "bandId": 19,
         "city": "Oklahoma City, OK",
         "date": "2026-11-25",
-        "id": 2028,
+        "id": 2422,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Criterion Theater - Oklahoma City"
@@ -1879,7 +1663,7 @@
         "bandId": 20,
         "city": "Grand Rapids, MI",
         "date": "2026-11-25",
-        "id": 2201,
+        "id": 2575,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "GLC Live at 20 Monroe"
@@ -1888,16 +1672,16 @@
         "bandId": 18,
         "city": "Salt Lake City, UT",
         "date": "2026-11-27",
-        "id": 2004,
+        "id": 2398,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "The Depot"
       },
       {
         "bandId": 20,
         "city": "Toronto, ON",
         "date": "2026-11-27",
-        "id": 2202,
+        "id": 2576,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Theatre at Great Canadian Toronto"
@@ -1906,16 +1690,16 @@
         "bandId": 18,
         "city": "Denver, CO",
         "date": "2026-11-28",
-        "id": 2005,
+        "id": 2399,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Summit Music Hall"
       },
       {
         "bandId": 19,
         "city": "Atlanta, GA",
         "date": "2026-11-28",
-        "id": 2029,
+        "id": 2423,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Tabernacle"
@@ -1924,16 +1708,25 @@
         "bandId": 20,
         "city": "Montreal, QC",
         "date": "2026-11-28",
-        "id": 2203,
+        "id": 2577,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "MTELUS"
       },
       {
+        "bandId": 32,
+        "city": "Santiago, CL",
+        "date": "2026-11-28",
+        "id": 2591,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Fauna Primavera"
+      },
+      {
         "bandId": 19,
         "city": "St Petersburg, FL",
         "date": "2026-11-29",
-        "id": 2030,
+        "id": 2424,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Jannus Live"
@@ -1942,7 +1735,7 @@
         "bandId": 20,
         "city": "Boston, MA",
         "date": "2026-11-29",
-        "id": 2204,
+        "id": 2578,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "MGM Music Hall at Fenway"
@@ -1951,43 +1744,43 @@
         "bandId": 18,
         "city": "Dallas, TX",
         "date": "2026-11-30",
-        "id": 2006,
+        "id": 2400,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "The Echo Lounge & Music Hall"
+      },
+      {
+        "bandId": 32,
+        "city": "São Paulo, BR",
+        "date": "2026-11-30",
+        "id": 2592,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Audio"
       },
       {
         "bandId": 18,
         "city": "San Antonio, TX",
         "date": "2026-12-01",
-        "id": 2007,
+        "id": 2401,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Aztec Theatre"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "The Aztec Theatre"
       },
       {
         "bandId": 19,
         "city": "Raleigh, NC",
         "date": "2026-12-01",
-        "id": 2031,
+        "id": 2425,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "The Ritz"
       },
       {
-        "bandId": 10,
-        "city": "Columbia",
-        "date": "2026-12-01",
-        "id": 2183,
-        "origin": "search",
-        "sourceUrl": "https://tixel.com/ca/music-tickets/thrice",
-        "venue": "Township Auditorium"
-      },
-      {
         "bandId": 20,
         "city": "Philadelphia, PA",
         "date": "2026-12-01",
-        "id": 2205,
+        "id": 2579,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Fillmore"
@@ -1996,25 +1789,34 @@
         "bandId": 18,
         "city": "Houston, TX",
         "date": "2026-12-02",
-        "id": 2008,
+        "id": 2402,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "House Of Blues"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "House of Blues"
       },
       {
         "bandId": 19,
         "city": "Baltimore, MD",
         "date": "2026-12-02",
-        "id": 2032,
+        "id": 2426,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Nevermore Hall"
       },
       {
+        "bandId": 32,
+        "city": "Buenos Aires, AR",
+        "date": "2026-12-02",
+        "id": 2593,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "C Art Media"
+      },
+      {
         "bandId": 10,
-        "city": "Santa Ana, CA, United States",
+        "city": "Santa Ana, CA",
         "date": "2026-12-03",
-        "id": 2185,
+        "id": 2530,
         "origin": "search",
         "sourceUrl": "https://www.eventworld.com/thrice-tickets/performer/11924",
         "venue": ""
@@ -2023,7 +1825,7 @@
         "bandId": 20,
         "city": "Lancaster, PA",
         "date": "2026-12-03",
-        "id": 2206,
+        "id": 2580,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Freedom Hall"
@@ -2032,16 +1834,16 @@
         "bandId": 18,
         "city": "St. Petersburg, FL",
         "date": "2026-12-04",
-        "id": 2009,
+        "id": 2403,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Jannus Landing"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "Jannus Live"
       },
       {
         "bandId": 19,
         "city": "Philadelphia, PA",
         "date": "2026-12-04",
-        "id": 2033,
+        "id": 2427,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "The Fillmore Philadelphia"
@@ -2050,7 +1852,7 @@
         "bandId": 20,
         "city": "Cincinnati, OH",
         "date": "2026-12-04",
-        "id": 2207,
+        "id": 2581,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Andrew J Brady Music Center"
@@ -2059,16 +1861,16 @@
         "bandId": 18,
         "city": "Atlanta, GA",
         "date": "2026-12-05",
-        "id": 2010,
+        "id": 2404,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Buckhead Theatre"
       },
       {
         "bandId": 19,
         "city": "Cleveland, OH",
         "date": "2026-12-05",
-        "id": 2034,
+        "id": 2428,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Agora Theatre"
@@ -2077,25 +1879,34 @@
         "bandId": 20,
         "city": "Indianapolis, IN",
         "date": "2026-12-05",
-        "id": 2208,
+        "id": 2582,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Egyptian Room at Old National Centre"
       },
       {
+        "bandId": 32,
+        "city": "Lima, PE",
+        "date": "2026-12-05",
+        "id": 2594,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Veltrac Music Festival"
+      },
+      {
         "bandId": 18,
         "city": "Nashville, TN",
         "date": "2026-12-06",
-        "id": 2011,
+        "id": 2405,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Brooklyn Bowl"
       },
       {
         "bandId": 22,
         "city": "Lima, Peru",
         "date": "2026-12-06",
-        "id": 2058,
+        "id": 2472,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Duomo Costa 21"
@@ -2104,34 +1915,25 @@
         "bandId": 20,
         "city": "Detroit, MI",
         "date": "2026-12-06",
-        "id": 2209,
+        "id": 2583,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Fillmore"
       },
       {
-        "bandId": 10,
-        "city": "Birmingham",
-        "date": "2026-12-07",
-        "id": 2184,
-        "origin": "search",
-        "sourceUrl": "https://tixel.com/ca/music-tickets/thrice",
-        "venue": "Alabama Theatre"
-      },
-      {
         "bandId": 18,
         "city": "Chicago, IL",
         "date": "2026-12-08",
-        "id": 2012,
+        "id": 2406,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "House Of Blues"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "House of Blues"
       },
       {
         "bandId": 19,
         "city": "Milwaukee, WI",
         "date": "2026-12-08",
-        "id": 2035,
+        "id": 2429,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "The Rave-Eagles Club"
@@ -2140,7 +1942,7 @@
         "bandId": 20,
         "city": "Brooklyn, NY",
         "date": "2026-12-08",
-        "id": 2210,
+        "id": 2584,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Brooklyn Paramount"
@@ -2149,16 +1951,16 @@
         "bandId": 18,
         "city": "Cincinnati, OH",
         "date": "2026-12-09",
-        "id": 2013,
+        "id": 2407,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Bogart's"
       },
       {
         "bandId": 19,
         "city": "Royal Oak, MI",
         "date": "2026-12-09",
-        "id": 2036,
+        "id": 2430,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Royal Oak Music Theatre"
@@ -2167,52 +1969,43 @@
         "bandId": 22,
         "city": "Buenos Aires, Argentina",
         "date": "2026-12-09",
-        "id": 2059,
+        "id": 2473,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Groove"
       },
       {
-        "bandId": 4,
-        "city": "Sydney",
-        "date": "2026-12-10",
-        "id": 1899,
-        "origin": "search",
-        "sourceUrl": "https://scenestr.com.au/music/jimmy-eat-world-australia-2026-tour-20260709",
-        "venue": "Hordern Pavilion"
-      },
-      {
         "bandId": 5,
         "city": "Wantagh, NY",
         "date": "2026-12-10",
-        "id": 2116,
+        "id": 2505,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
-        "venue": "Mulcahy\u2019s"
+        "venue": "Mulcahy’s"
       },
       {
         "bandId": 4,
-        "city": "Melbourne",
-        "date": "2026-12-11",
-        "id": 1900,
+        "city": "Sydney",
+        "date": "2026-12-10",
+        "id": 2665,
         "origin": "search",
-        "sourceUrl": "https://scenestr.com.au/music/jimmy-eat-world-australia-2026-tour-20260709",
-        "venue": "Margaret Court Arena"
+        "sourceUrl": "https://aaabackstage.com/jimmy-eat-world-announce-2026-australian-tour-celebrating-25-years-of-bleed-american/",
+        "venue": "Hordern Pavilion"
       },
       {
         "bandId": 18,
         "city": "Detroit, MI",
         "date": "2026-12-11",
-        "id": 2014,
+        "id": 2408,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "St. Andrew's Hall"
       },
       {
         "bandId": 19,
         "city": "Pittsburgh, PA",
         "date": "2026-12-11",
-        "id": 2037,
+        "id": 2431,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/silverstein-tickets/artist/887758?irgwc=1&afsrc=1&clickid&camefrom=CFC_BUYAT_6071127&impradid=6071127&REFERRAL_ID=tmfeedbuyat6071127&wt.mc_id=aff_BUYAT_6071127&utm_source=6071127-Boro+Roque+Studio+%7C+Travel2Concert&impradname=Boro+Roque+Studio+%7C+Travel2Concert&utm_medium=affiliate&ircid=4272",
         "venue": "Stage AE"
@@ -2221,7 +2014,7 @@
         "bandId": 22,
         "city": "Santiago, Chile",
         "date": "2026-12-11",
-        "id": 2060,
+        "id": 2474,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Coliseum Theatre"
@@ -2230,268 +2023,286 @@
         "bandId": 5,
         "city": "Sayreville, NJ",
         "date": "2026-12-11",
-        "id": 2117,
+        "id": 2506,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Starland Ballroom"
-      },
-      {
-        "bandId": 32,
-        "city": "Ft Lauderdale, FL",
-        "date": "2026-12-11",
-        "id": 2132,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "Revolution Live"
       },
       {
         "bandId": 20,
         "city": "Raleigh, NC",
         "date": "2026-12-11",
-        "id": 2211,
+        "id": 2585,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Ritz"
       },
       {
-        "bandId": 4,
-        "city": "Adelaide",
-        "date": "2026-12-12",
-        "id": 1901,
+        "bandId": 32,
+        "city": "Fort Lauderdale, FL",
+        "date": "2026-12-11",
+        "id": 2595,
         "origin": "search",
-        "sourceUrl": "https://scenestr.com.au/music/jimmy-eat-world-australia-2026-tour-20260709",
-        "venue": "Hindley Street Music Hall"
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Revolution Live"
+      },
+      {
+        "bandId": 4,
+        "city": "Melbourne",
+        "date": "2026-12-11",
+        "id": 2666,
+        "origin": "search",
+        "sourceUrl": "https://aaabackstage.com/jimmy-eat-world-announce-2026-australian-tour-celebrating-25-years-of-bleed-american/",
+        "venue": "Margaret Court Arena"
       },
       {
         "bandId": 18,
         "city": "Toronto, ON",
         "date": "2026-12-12",
-        "id": 2015,
+        "id": 2409,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "The Opera House"
+      },
+      {
+        "bandId": 19,
+        "city": "New York City, NY",
+        "date": "2026-12-12",
+        "id": 2432,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=Silverstein&q=Silverstein",
+        "venue": "Palladium Times Square"
       },
       {
         "bandId": 5,
         "city": "Sayreville, NJ",
         "date": "2026-12-12",
-        "id": 2118,
+        "id": 2507,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Starland Ballroom"
       },
       {
-        "bandId": 32,
-        "city": "Tampa, FL",
-        "date": "2026-12-12",
-        "id": 2133,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "The Ritz Ybor"
-      },
-      {
         "bandId": 20,
         "city": "Myrtle Beach, SC",
         "date": "2026-12-12",
-        "id": 2212,
+        "id": 2586,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "House of Blues"
       },
       {
+        "bandId": 32,
+        "city": "Tampa, FL",
+        "date": "2026-12-12",
+        "id": 2596,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Ritz Ybor"
+      },
+      {
+        "bandId": 4,
+        "city": "Adelaide",
+        "date": "2026-12-12",
+        "id": 2667,
+        "origin": "search",
+        "sourceUrl": "https://aaabackstage.com/jimmy-eat-world-announce-2026-australian-tour-celebrating-25-years-of-bleed-american/",
+        "venue": "Hindley Street Music Hall"
+      },
+      {
         "bandId": 18,
         "city": "Montreal, QC",
         "date": "2026-12-13",
-        "id": 2016,
+        "id": 2410,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Th\u00e9\u00e2tre Beanfield"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "Beanfield Theatre"
+      },
+      {
+        "bandId": 19,
+        "city": "Boston, MA",
+        "date": "2026-12-13",
+        "id": 2433,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=Silverstein&q=Silverstein",
+        "venue": "Citizens House of Blues Boston"
       },
       {
         "bandId": 22,
-        "city": "S\u00e3o Paulo, Brazil",
+        "city": "São Paulo, Brazil",
         "date": "2026-12-13",
-        "id": 2061,
+        "id": 2475,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Terra SP"
       },
       {
-        "bandId": 32,
-        "city": "Orlando, FL",
-        "date": "2026-12-13",
-        "id": 2134,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "Plaza Live - Orlando"
-      },
-      {
         "bandId": 20,
         "city": "Atlanta, GA",
         "date": "2026-12-13",
-        "id": 2213,
+        "id": 2587,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "The Coca-Cola Roxy"
       },
       {
-        "bandId": 4,
-        "city": "Brisbane",
-        "date": "2026-12-15",
-        "id": 1902,
+        "bandId": 32,
+        "city": "Orlando, FL",
+        "date": "2026-12-13",
+        "id": 2597,
         "origin": "search",
-        "sourceUrl": "https://scenestr.com.au/music/jimmy-eat-world-australia-2026-tour-20260709",
-        "venue": "The Riverstage"
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Plaza Live"
       },
       {
         "bandId": 18,
         "city": "Boston, MA",
         "date": "2026-12-15",
-        "id": 2017,
+        "id": 2411,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Big Night Live"
-      },
-      {
-        "bandId": 32,
-        "city": "Jacksonville, FL",
-        "date": "2026-12-15",
-        "id": 2135,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "FIVE"
       },
       {
         "bandId": 20,
         "city": "Austin, TX",
         "date": "2026-12-15",
-        "id": 2214,
+        "id": 2588,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "ACL Live at the Moody Theater"
       },
       {
+        "bandId": 32,
+        "city": "Jacksonville, FL",
+        "date": "2026-12-15",
+        "id": 2598,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Five"
+      },
+      {
+        "bandId": 4,
+        "city": "Brisbane",
+        "date": "2026-12-15",
+        "id": 2668,
+        "origin": "search",
+        "sourceUrl": "https://aaabackstage.com/jimmy-eat-world-announce-2026-australian-tour-celebrating-25-years-of-bleed-american/",
+        "venue": "Riverstage"
+      },
+      {
         "bandId": 18,
         "city": "Philadelphia, PA",
         "date": "2026-12-16",
-        "id": 2018,
+        "id": 2412,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "Theatre Of The Living Arts"
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
+        "venue": "Theatre of Living Arts"
       },
       {
         "bandId": 22,
-        "city": "Bogot\u00e1, Colombia",
+        "city": "Bogotá, Colombia",
         "date": "2026-12-16",
-        "id": 2062,
+        "id": 2476,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Royal Center"
       },
       {
-        "bandId": 32,
-        "city": "Charlotte, NC",
-        "date": "2026-12-16",
-        "id": 2136,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "The Fillmore Charlotte"
-      },
-      {
         "bandId": 20,
         "city": "Houston, TX",
         "date": "2026-12-16",
-        "id": 2215,
+        "id": 2589,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Bayou Music Center"
       },
       {
+        "bandId": 32,
+        "city": "Charlotte, NC",
+        "date": "2026-12-16",
+        "id": 2599,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "The Fillmore Charlotte"
+      },
+      {
         "bandId": 18,
         "city": "Brooklyn, NY",
         "date": "2026-12-18",
-        "id": 2019,
+        "id": 2413,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://consequence.net/2026/06/senses-fail-fall-2026-north-american-tour/",
         "venue": "Warsaw"
       },
       {
         "bandId": 22,
         "city": "Monterrey, Mexico",
         "date": "2026-12-18",
-        "id": 2063,
+        "id": 2477,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Showcenter Complex"
       },
       {
-        "bandId": 32,
-        "city": "New Haven, CT",
-        "date": "2026-12-18",
-        "id": 2137,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "College Street Music Hall"
-      },
-      {
         "bandId": 20,
         "city": "Tampa, FL",
         "date": "2026-12-18",
-        "id": 2216,
+        "id": 2590,
         "origin": "search",
         "sourceUrl": "https://cincygroove.com/2026/10/11/underoath-shares-all-the-love-is-gone-performance-video-performing-at-the-brady-music-center-on-12-4/",
         "venue": "Yuengling Center"
       },
       {
-        "bandId": 30,
-        "city": "Detroit, Michigan",
-        "date": "2026-12-19",
-        "id": 1946,
+        "bandId": 32,
+        "city": "New Haven, CT",
+        "date": "2026-12-18",
+        "id": 2600,
         "origin": "search",
-        "sourceUrl": "https://calibertv.net/news/hot-mulligan-announce-2026-ho-ho-hot-mulligan-lineup/",
-        "venue": "Russell Industrial Center"
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "College Street Music Hall"
       },
       {
         "bandId": 18,
         "city": "Brooklyn, NY",
         "date": "2026-12-19",
-        "id": 2020,
+        "id": 2414,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
+        "sourceUrl": "https://redlightmanagement.com/artists/senses-fail/",
         "venue": "Warsaw"
+      },
+      {
+        "bandId": 26,
+        "city": "Niagara Falls, ON, Canada",
+        "date": "2026-12-19",
+        "id": 2440,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com.au/search?tm_link=tm_homeA_header_search&user_input=Simple+Plan&q=Simple+Plan",
+        "venue": "OLG Stage at Fallsview Casino"
       },
       {
         "bandId": 22,
         "city": "Mexico City, Mexico",
         "date": "2026-12-19",
-        "id": 2064,
+        "id": 2478,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Foro Teambro"
       },
       {
-        "bandId": 26,
-        "city": "Niagara Falls, ON",
-        "date": "2026-12-19",
-        "id": 2097,
-        "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
-        "venue": "OLG Stage at Fallsview Casino"
-      },
-      {
         "bandId": 32,
         "city": "Worcester, MA",
         "date": "2026-12-19",
-        "id": 2138,
+        "id": 2601,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/artist/722847",
-        "venue": "Palladium-MA"
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Palladium"
       },
       {
         "bandId": 30,
         "city": "Detroit, MI",
-        "date": "2026-12-20",
-        "id": 1958,
+        "date": "2026-12-19",
+        "id": 2658,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
         "venue": "Russell Industrial Center"
@@ -2500,25 +2311,43 @@
         "bandId": 18,
         "city": "Philadelphia, PA",
         "date": "2026-12-20",
-        "id": 2021,
+        "id": 2415,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/54998/senses-fail-extend-20-year-anniversary-still-searching-tour-dates/",
-        "venue": "TLA"
+        "sourceUrl": "https://redlightmanagement.com/artists/senses-fail/",
+        "venue": "Theatre of The Living Arts"
+      },
+      {
+        "bandId": 32,
+        "city": "Buffalo, NY",
+        "date": "2026-12-20",
+        "id": 2602,
+        "origin": "search",
+        "sourceUrl": "https://www.broadwayworld.com/bwwmusic/article/American-Football-Releases-THE-CURE-Cover-Fall-2026-Tour-Continues-20261014",
+        "venue": "Asbury Hall"
       },
       {
         "bandId": 2,
         "city": "Chicago, IL",
         "date": "2026-12-20",
-        "id": 2146,
+        "id": 2634,
         "origin": "search",
         "sourceUrl": "https://eventsliker.com/rock-on-fall-out-boy-tour-2026-unveiled/",
         "venue": "United Center"
       },
       {
+        "bandId": 30,
+        "city": "Detroit, MI",
+        "date": "2026-12-20",
+        "id": 2659,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "Russell Industrial Center"
+      },
+      {
         "bandId": 22,
         "city": "Guadalajara, Mexico",
         "date": "2026-12-21",
-        "id": 2065,
+        "id": 2479,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Cavaret Teatro Studio"
@@ -2527,7 +2356,7 @@
         "bandId": 9,
         "city": "Brooklyn, NY",
         "date": "2027-01-19",
-        "id": 2173,
+        "id": 2531,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Saint Vitus"
@@ -2536,7 +2365,7 @@
         "bandId": 9,
         "city": "Baltimore, MD",
         "date": "2027-01-20",
-        "id": 2174,
+        "id": 2532,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Ottobar"
@@ -2545,7 +2374,7 @@
         "bandId": 9,
         "city": "Albany, NY",
         "date": "2027-01-21",
-        "id": 2175,
+        "id": 2533,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Empire Live"
@@ -2554,7 +2383,7 @@
         "bandId": 9,
         "city": "Sayreville, NJ",
         "date": "2027-01-22",
-        "id": 2176,
+        "id": 2534,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Starland Ballroom"
@@ -2563,295 +2392,268 @@
         "bandId": 9,
         "city": "Providence, RI",
         "date": "2027-01-23",
-        "id": 2177,
+        "id": 2535,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Fete Music Hall"
       },
       {
+        "bandId": 30,
+        "city": "Inglewood, CA",
+        "date": "2027-01-23",
+        "id": 2660,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/Hot-Mulligan-tickets/artist/2345567",
+        "venue": "Kia Forum"
+      },
+      {
         "bandId": 9,
         "city": "Hampton, NH",
         "date": "2027-01-24",
-        "id": 2178,
+        "id": 2536,
         "origin": "search",
         "sourceUrl": "https://www.bandsintown.com/a/367-thursday?came_from=265&utm_medium=web&utm_source=venue_page&utm_campaign=ratings",
         "venue": "Wally's"
       },
       {
         "bandId": 26,
-        "city": "Victoria, BC",
-        "date": "2027-01-25",
-        "id": 2098,
-        "origin": "search",
-        "sourceUrl": "https://themusicuniverse.com/simple-plan-reveals-first-proper-cross-canadian-tour-in-over-ten-years/",
-        "venue": "Save-On-Foods Memorial Centre"
-      },
-      {
-        "bandId": 26,
-        "city": "Victoria, BC",
+        "city": "Victoria, BC, Canada",
         "date": "2027-01-26",
-        "id": 2099,
+        "id": 2441,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Save-On-Foods Memorial Centre"
       },
       {
         "bandId": 26,
-        "city": "Vancouver, BC",
+        "city": "Vancouver, BC, Canada",
         "date": "2027-01-27",
-        "id": 2100,
+        "id": 2442,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Rogers Arena"
       },
       {
         "bandId": 26,
-        "city": "Edmonton, AB",
+        "city": "Edmonton, AB, Canada",
         "date": "2027-01-29",
-        "id": 2101,
+        "id": 2443,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Rogers Place"
       },
       {
         "bandId": 25,
         "city": "Edmonton, AB",
         "date": "2027-01-29",
-        "id": 2225,
+        "id": 2543,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Rogers Place"
       },
       {
         "bandId": 26,
-        "city": "Calgary, AB",
+        "city": "Calgary, AB, Canada",
         "date": "2027-01-31",
-        "id": 2102,
+        "id": 2444,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Scotiabank Saddledome"
       },
       {
         "bandId": 25,
         "city": "Calgary, AB",
         "date": "2027-01-31",
-        "id": 2226,
+        "id": 2544,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Scotiabank Saddledome"
       },
       {
         "bandId": 26,
-        "city": "Saskatoon, SK",
+        "city": "Saskatoon, SK, Canada",
         "date": "2027-02-01",
-        "id": 2103,
+        "id": 2445,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "SaskTel Centre"
       },
       {
         "bandId": 25,
         "city": "Saskatoon, SK",
         "date": "2027-02-01",
-        "id": 2227,
+        "id": 2545,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "SaskTel Centre"
       },
       {
         "bandId": 26,
-        "city": "Winnipeg, MB",
+        "city": "Winnipeg, MB, Canada",
         "date": "2027-02-02",
-        "id": 2104,
+        "id": 2446,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Canada Life Centre"
       },
       {
         "bandId": 25,
         "city": "Winnipeg, MB",
         "date": "2027-02-02",
-        "id": 2228,
+        "id": 2546,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Canada Life Centre"
       },
       {
-        "bandId": 19,
-        "city": "Melbourne, AU",
-        "date": "2027-02-05",
-        "id": 2038,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/55313/silverstein-and-story-of-the-year-announce-australian-leg-of-co-headlining-camp-screamo-tour/",
-        "venue": "The Forum"
-      },
-      {
         "bandId": 26,
-        "city": "Toronto, ON",
+        "city": "Toronto, ON, Canada",
         "date": "2027-02-05",
-        "id": 2105,
+        "id": 2447,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Scotiabank Arena"
       },
       {
         "bandId": 25,
         "city": "Toronto, ON",
         "date": "2027-02-05",
-        "id": 2229,
+        "id": 2547,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Scotiabank Arena"
       },
       {
         "bandId": 26,
-        "city": "Kitchener, ON",
+        "city": "Kitchener, ON, Canada",
         "date": "2027-02-06",
-        "id": 2106,
+        "id": 2448,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Kitchener Memorial Auditorium Complex"
       },
       {
         "bandId": 25,
         "city": "Kitchener, ON",
         "date": "2027-02-06",
-        "id": 2230,
+        "id": 2548,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
-        "venue": "The Aud"
-      },
-      {
-        "bandId": 19,
-        "city": "Sydney, AU",
-        "date": "2027-02-07",
-        "id": 2039,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/55313/silverstein-and-story-of-the-year-announce-australian-leg-of-co-headlining-camp-screamo-tour/",
-        "venue": "Enmore Theatre"
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
+        "venue": "Kitchener Memorial Auditorium Complex"
       },
       {
         "bandId": 26,
-        "city": "London, ON",
+        "city": "London, ON, Canada",
         "date": "2027-02-07",
-        "id": 2107,
+        "id": 2449,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Canada Life Place"
       },
       {
         "bandId": 25,
         "city": "London, ON",
         "date": "2027-02-07",
-        "id": 2231,
+        "id": 2549,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Canada Life Place"
       },
       {
         "bandId": 19,
-        "city": "Adelaide, AU",
+        "city": "Adelaide, SA",
         "date": "2027-02-08",
-        "id": 2040,
+        "id": 2434,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/55313/silverstein-and-story-of-the-year-announce-australian-leg-of-co-headlining-camp-screamo-tour/",
+        "sourceUrl": "https://www.ticketmaster.com.au/silverstein-tickets/artist/887758",
         "venue": "Hindley St Music Hall"
       },
       {
         "bandId": 26,
-        "city": "Kingston, ON",
+        "city": "Kingston, ON, Canada",
         "date": "2027-02-09",
-        "id": 2108,
+        "id": 2450,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Slush Puppie Place"
       },
       {
         "bandId": 25,
         "city": "Kingston, ON",
         "date": "2027-02-09",
-        "id": 2232,
+        "id": 2550,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Slush Puppie Place"
       },
       {
-        "bandId": 19,
-        "city": "Fremantle, AU",
-        "date": "2027-02-10",
-        "id": 2041,
-        "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/55313/silverstein-and-story-of-the-year-announce-australian-leg-of-co-headlining-camp-screamo-tour/",
-        "venue": "Metropolis"
-      },
-      {
         "bandId": 26,
-        "city": "Ottawa, ON",
+        "city": "Ottawa, ON, Canada",
         "date": "2027-02-11",
-        "id": 2109,
+        "id": 2451,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Canadian Tire Centre"
       },
       {
         "bandId": 25,
         "city": "Ottawa, ON",
         "date": "2027-02-11",
-        "id": 2233,
+        "id": 2551,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Canadian Tire Centre"
       },
       {
         "bandId": 19,
-        "city": "Brisbane, AU",
+        "city": "Brisbane, QLD",
         "date": "2027-02-12",
-        "id": 2042,
+        "id": 2435,
         "origin": "search",
-        "sourceUrl": "https://lambgoat.com/news/55313/silverstein-and-story-of-the-year-announce-australian-leg-of-co-headlining-camp-screamo-tour/",
-        "venue": "Fortitude Music Hall"
+        "sourceUrl": "https://www.ticketmaster.com.au/silverstein-tickets/artist/887758",
+        "venue": "The Fortitude Music Hall"
       },
       {
         "bandId": 26,
-        "city": "Montreal, QC",
+        "city": "Montreal, QC, Canada",
         "date": "2027-02-12",
-        "id": 2110,
+        "id": 2452,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.com.au/simple-plan-tickets/artist/840419",
         "venue": "Centre Bell"
       },
       {
         "bandId": 25,
         "city": "Montreal, QC",
         "date": "2027-02-12",
-        "id": 2234,
+        "id": 2552,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
-        "venue": "Bell Centre"
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
+        "venue": "Centre Bell"
       },
       {
         "bandId": 26,
-        "city": "Moncton, NB",
+        "city": "Moncton, NB, Canada",
         "date": "2027-02-14",
-        "id": 2111,
+        "id": 2453,
         "origin": "search",
-        "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
+        "sourceUrl": "https://www.ticketmaster.it/artist/simple-plan-tickets/16164?language=en-us",
         "venue": "Avenir Centre"
       },
       {
         "bandId": 25,
         "city": "Moncton, NB",
         "date": "2027-02-14",
-        "id": 2235,
+        "id": 2553,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Avenir Centre"
       },
       {
         "bandId": 26,
         "city": "Sydney, NS",
         "date": "2027-02-15",
-        "id": 2112,
+        "id": 2454,
         "origin": "search",
         "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
         "venue": "Centre 200"
@@ -2860,43 +2662,43 @@
         "bandId": 25,
         "city": "Sydney, NS",
         "date": "2027-02-15",
-        "id": 2236,
+        "id": 2554,
         "origin": "search",
         "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
         "venue": "Centre 200"
-      },
-      {
-        "bandId": 22,
-        "city": "Paris, France",
-        "date": "2027-02-16",
-        "id": 2066,
-        "origin": "search",
-        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
-        "venue": "Le Bataclan"
       },
       {
         "bandId": 26,
         "city": "Halifax, NS",
         "date": "2027-02-16",
-        "id": 2113,
+        "id": 2455,
         "origin": "search",
         "sourceUrl": "http://www.ticketmaster.ca/simple-plan-tickets/artist/840419",
         "venue": "Scotiabank Centre"
       },
       {
+        "bandId": 22,
+        "city": "Paris, France",
+        "date": "2027-02-16",
+        "id": 2480,
+        "origin": "search",
+        "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
+        "venue": "Le Bataclan"
+      },
+      {
         "bandId": 25,
         "city": "Halifax, NS",
         "date": "2027-02-16",
-        "id": 2237,
+        "id": 2555,
         "origin": "search",
-        "sourceUrl": "https://www.concertaddicts.com/news-articles/tours/simple-plan-announce-2027-bigger-than-you-think-canadian-tour-with-yellowcard-and-bowling-for-soup",
+        "sourceUrl": "https://www.ticketmaster.ca/yellowcard-tickets/artist/831041",
         "venue": "Scotiabank Centre"
       },
       {
         "bandId": 22,
         "city": "Strasbourg, France",
         "date": "2027-02-17",
-        "id": 2067,
+        "id": 2481,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "La Laiterie"
@@ -2905,16 +2707,16 @@
         "bandId": 22,
         "city": "Villeurbanne, France",
         "date": "2027-02-18",
-        "id": 2068,
+        "id": 2482,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "CCO La Rayonne"
       },
       {
         "bandId": 22,
-        "city": "Z\u00fcrich, Switzerland",
+        "city": "Zürich, Switzerland",
         "date": "2027-02-20",
-        "id": 2069,
+        "id": 2483,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "X-TRA"
@@ -2923,7 +2725,7 @@
         "bandId": 22,
         "city": "Milan, Italy",
         "date": "2027-02-21",
-        "id": 2070,
+        "id": 2484,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Alcatraz"
@@ -2932,7 +2734,7 @@
         "bandId": 22,
         "city": "Munich, Germany",
         "date": "2027-02-22",
-        "id": 2071,
+        "id": 2485,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Tonhalle"
@@ -2941,7 +2743,7 @@
         "bandId": 22,
         "city": "Berlin, Germany",
         "date": "2027-02-23",
-        "id": 2072,
+        "id": 2486,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Astra Kulturhaus"
@@ -2950,7 +2752,7 @@
         "bandId": 22,
         "city": "Hamburg, Germany",
         "date": "2027-02-25",
-        "id": 2073,
+        "id": 2487,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "Docks"
@@ -2959,7 +2761,7 @@
         "bandId": 22,
         "city": "Stuttgart, Germany",
         "date": "2027-02-26",
-        "id": 2074,
+        "id": 2488,
         "origin": "search",
         "sourceUrl": "https://happymag.tv/sleeping-with-sirens-an-ending-in-itself-world-tour-setlist/",
         "venue": "LKA Longhorn"
@@ -2968,7 +2770,7 @@
         "bandId": 22,
         "city": "Cologne, Germany",
         "date": "2027-02-27",
-        "id": 2075,
+        "id": 2489,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "Carlswerk Victoria"
@@ -2977,7 +2779,7 @@
         "bandId": 22,
         "city": "Tilburg, Netherlands",
         "date": "2027-02-28",
-        "id": 2076,
+        "id": 2490,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "013"
@@ -2986,7 +2788,7 @@
         "bandId": 22,
         "city": "Bristol, United Kingdom",
         "date": "2027-03-02",
-        "id": 2077,
+        "id": 2491,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "The Prospect Building"
@@ -2995,7 +2797,7 @@
         "bandId": 22,
         "city": "Glasgow, United Kingdom",
         "date": "2027-03-03",
-        "id": 2078,
+        "id": 2492,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "O2 Academy Glasgow"
@@ -3004,7 +2806,7 @@
         "bandId": 22,
         "city": "Manchester, United Kingdom",
         "date": "2027-03-05",
-        "id": 2079,
+        "id": 2493,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "Manchester Academy 1"
@@ -3013,7 +2815,7 @@
         "bandId": 22,
         "city": "Birmingham, United Kingdom",
         "date": "2027-03-06",
-        "id": 2080,
+        "id": 2494,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "O2 Academy Birmingham"
@@ -3022,7 +2824,7 @@
         "bandId": 22,
         "city": "London, United Kingdom",
         "date": "2027-03-07",
-        "id": 2081,
+        "id": 2495,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/rock-pop/sleeping-with-sirens-tickets",
         "venue": "O2 Academy Brixton"
@@ -3031,160 +2833,169 @@
         "bandId": 16,
         "city": "Boise, ID",
         "date": "2027-03-31",
-        "id": 1990,
+        "id": 2386,
         "origin": "search",
         "sourceUrl": "https://concerts.hypebot.com/artist/s/539-saves-the-day",
         "venue": "Julia Davis Park"
       },
       {
         "bandId": 22,
-        "city": "Brisbane",
+        "city": "Brisbane, QLD",
         "date": "2027-04-03",
-        "id": 2082,
+        "id": 2496,
         "origin": "search",
-        "sourceUrl": "https://metal-roos.com.au/sleeping-with-sirens-an-ending-in-itself-tour-australia-2027-with-special-guests-state-champs-usa-boston-manor-uk/",
-        "venue": "Fortitude Music Hall"
+        "sourceUrl": "https://www.ticketmaster.com.au/sleeping-with-sirens-tickets/artist/1404292",
+        "venue": "The Fortitude Music Hall"
       },
       {
         "bandId": 22,
-        "city": "Sydney",
-        "date": "2027-04-04",
-        "id": 2083,
-        "origin": "search",
-        "sourceUrl": "https://metal-roos.com.au/sleeping-with-sirens-an-ending-in-itself-tour-australia-2027-with-special-guests-state-champs-usa-boston-manor-uk/",
-        "venue": "Hordern Pavilion"
-      },
-      {
-        "bandId": 22,
-        "city": "Melbourne",
+        "city": "West Melbourne, VIC",
         "date": "2027-04-06",
-        "id": 2084,
+        "id": 2497,
         "origin": "search",
-        "sourceUrl": "https://metal-roos.com.au/sleeping-with-sirens-an-ending-in-itself-tour-australia-2027-with-special-guests-state-champs-usa-boston-manor-uk/",
-        "venue": "Festival Hall"
+        "sourceUrl": "https://www.ticketmaster.com.au/sleeping-with-sirens-tickets/artist/1404292",
+        "venue": "Festival Hall Melbourne"
       },
       {
         "bandId": 22,
-        "city": "Adelaide",
+        "city": "Adelaide, SA",
         "date": "2027-04-08",
-        "id": 2085,
+        "id": 2498,
         "origin": "search",
-        "sourceUrl": "https://metal-roos.com.au/sleeping-with-sirens-an-ending-in-itself-tour-australia-2027-with-special-guests-state-champs-usa-boston-manor-uk/",
-        "venue": "Hindley Street Music Hall"
+        "sourceUrl": "https://www.ticketmaster.com.au/sleeping-with-sirens-tickets/artist/1404292",
+        "venue": "Hindley St Music Hall"
       },
       {
-        "bandId": 22,
-        "city": "Perth",
-        "date": "2027-04-10",
-        "id": 2086,
+        "bandId": 23,
+        "city": "Miami Beach, Florida, United States",
+        "date": "2027-04-28",
+        "id": 2608,
         "origin": "search",
-        "sourceUrl": "https://metal-roos.com.au/sleeping-with-sirens-an-ending-in-itself-tour-australia-2027-with-special-guests-state-champs-usa-boston-manor-uk/",
-        "venue": "Metro City"
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
+        "venue": "Port of Miami"
       },
       {
-        "bandId": 22,
-        "city": "Singapore",
-        "date": "2027-04-13",
-        "id": 2087,
+        "bandId": 23,
+        "city": "OCEAN",
+        "date": "2027-04-29",
+        "id": 2609,
         "origin": "search",
-        "sourceUrl": "https://www.bandwagon.asia/articles/sleeping-with-sirens-to-play-singapore-kuala-lumpur-manila-in-april-2027-for-an-ending-in-itself-tour",
-        "venue": "Capitol Theatre"
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
+        "venue": "Norwegian Jewel"
       },
       {
-        "bandId": 22,
-        "city": "Kuala Lumpur, Malaysia",
-        "date": "2027-04-15",
-        "id": 2088,
+        "bandId": 23,
+        "city": "OCEAN",
+        "date": "2027-04-30",
+        "id": 2610,
         "origin": "search",
-        "sourceUrl": "https://www.bandwagon.asia/articles/sleeping-with-sirens-to-play-singapore-kuala-lumpur-manila-in-april-2027-for-an-ending-in-itself-tour",
-        "venue": "Zepp Kuala Lumpur"
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
+        "venue": "Norwegian Jewel"
       },
       {
-        "bandId": 22,
-        "city": "Quezon City",
-        "date": "2027-04-17",
-        "id": 2089,
+        "bandId": 23,
+        "city": "OCEAN",
+        "date": "2027-05-01",
+        "id": 2611,
         "origin": "search",
-        "sourceUrl": "https://www.overheremanila.com/sleeping-with-sirens-second-manila-show/",
-        "venue": "New Frontier Theater"
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
+        "venue": "Norwegian Jewel"
       },
       {
-        "bandId": 22,
-        "city": "Quezon City",
-        "date": "2027-04-18",
-        "id": 2090,
+        "bandId": 23,
+        "city": "OCEAN",
+        "date": "2027-05-02",
+        "id": 2612,
         "origin": "search",
-        "sourceUrl": "https://www.overheremanila.com/sleeping-with-sirens-second-manila-show/",
-        "venue": "New Frontier Theater"
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
+        "venue": "Norwegian Jewel"
       },
       {
         "bandId": 5,
         "city": "Dublin, Ireland",
         "date": "2027-05-12",
-        "id": 2119,
+        "id": 2508,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "3Arena"
       },
       {
-        "bandId": 4,
-        "city": "Columbus, OH, United States",
+        "bandId": 28,
+        "city": "Columbus, OH",
         "date": "2027-05-13",
-        "id": 1903,
+        "id": 2556,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/jimmy-eat-world-tickets/artist/779154?irgwc=1&utm_source=221109-Future+PLC.&utm_medium=affiliate&utm_campaign=221109&awtrc&camefrom=CFC_BUYAT_221109&ircid=7559&clickId",
+        "sourceUrl": "https://www.ticketmaster.com/blink182-tickets/artist/790708",
         "venue": "Historic Crew Stadium"
       },
       {
-        "bandId": 28,
-        "city": "Columbus, Ohio, USA",
+        "bandId": 4,
+        "city": "Columbus, OH",
         "date": "2027-05-13",
-        "id": 2238,
+        "id": 2669,
         "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
+        "sourceUrl": "https://www.ticketmaster.com/jimmy-eat-world-tickets/artist/779154",
+        "venue": "Historic Crew Stadium"
+      },
+      {
+        "bandId": 22,
+        "city": "Columbus, OH",
+        "date": "2027-05-14",
+        "id": 2499,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ917Gmh7?ac_link=setlist_findtickets",
         "venue": "Historic Crew Stadium"
       },
       {
         "bandId": 5,
         "city": "Newcastle upon Tyne, UK",
         "date": "2027-05-14",
-        "id": 2120,
+        "id": 2509,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Utilita Arena"
       },
       {
-        "bandId": 27,
-        "city": "Ocean City, MD, United States",
-        "date": "2027-05-15",
-        "id": 1945,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.uk/good-charlotte-tickets/artist/945159",
-        "venue": "Ocean City Inlet"
-      },
-      {
         "bandId": 5,
         "city": "Manchester, UK",
         "date": "2027-05-15",
-        "id": 2121,
+        "id": 2510,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Co-op Live"
       },
       {
         "bandId": 23,
-        "city": "Columbus, OH",
+        "city": "Columbus, Ohio, United States",
         "date": "2027-05-15",
-        "id": 2143,
+        "id": 2613,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.com/a-day-to-remember-billets/artist/1039337",
+        "sourceUrl": "http://www.concertarchives.org/bands/a-day-to-remember--9",
         "venue": "Historic Crew Stadium"
+      },
+      {
+        "bandId": 27,
+        "city": "Ocean City, MD",
+        "date": "2027-05-15",
+        "id": 2694,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ9171UO7?ac_link=setlist_findtickets",
+        "venue": "Ocean City Inlet"
+      },
+      {
+        "bandId": 22,
+        "city": "Ocean City, MD",
+        "date": "2027-05-16",
+        "id": 2500,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.com/artist/K8vZ917Gmh7?ac_link=setlist_findtickets",
+        "venue": "Ocean City Inlet Boardwalk"
       },
       {
         "bandId": 5,
         "city": "Leeds, UK",
         "date": "2027-05-17",
-        "id": 2122,
+        "id": 2511,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "First Direct Arena"
@@ -3193,7 +3004,7 @@
         "bandId": 5,
         "city": "Glasgow, UK",
         "date": "2027-05-19",
-        "id": 2123,
+        "id": 2512,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "OVO Hydro"
@@ -3202,7 +3013,7 @@
         "bandId": 5,
         "city": "Birmingham, UK",
         "date": "2027-05-21",
-        "id": 2124,
+        "id": 2513,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Utilita Arena Birmingham"
@@ -3211,7 +3022,7 @@
         "bandId": 5,
         "city": "London, UK",
         "date": "2027-05-22",
-        "id": 2125,
+        "id": 2514,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Alexandra Palace"
@@ -3220,7 +3031,7 @@
         "bandId": 5,
         "city": "Cardiff, UK",
         "date": "2027-05-23",
-        "id": 2126,
+        "id": 2515,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Utilita Arena"
@@ -3229,7 +3040,7 @@
         "bandId": 5,
         "city": "Paris, France",
         "date": "2027-05-25",
-        "id": 2127,
+        "id": 2516,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Zenith"
@@ -3238,16 +3049,25 @@
         "bandId": 5,
         "city": "Amsterdam, Netherlands",
         "date": "2027-05-26",
-        "id": 2128,
+        "id": 2517,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "AFAS Live"
       },
       {
+        "bandId": 22,
+        "city": "Leeds",
+        "date": "2027-05-29",
+        "id": 2501,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.co.uk/sleeping-with-sirens-tickets/artist/1404292",
+        "venue": "Temple Newsam"
+      },
+      {
         "bandId": 5,
         "city": "Oslo, Norway",
         "date": "2027-05-29",
-        "id": 2129,
+        "id": 2518,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Oslo Spektrum"
@@ -3256,178 +3076,124 @@
         "bandId": 7,
         "city": "Leeds, United Kingdom",
         "date": "2027-05-29",
-        "id": 2171,
+        "id": 2526,
         "origin": "search",
-        "sourceUrl": "https://imprintent.org/the-used-announce-a-mid-summer-nights-symphony-screening/",
-        "venue": "Slam Dunk Festival North"
+        "sourceUrl": "https://gigsty.com/artist/the-used",
+        "venue": "Temple Newsam Park"
+      },
+      {
+        "bandId": 22,
+        "city": "Hertfordshire",
+        "date": "2027-05-30",
+        "id": 2502,
+        "origin": "search",
+        "sourceUrl": "https://www.ticketmaster.co.uk/sleeping-with-sirens-tickets/artist/1404292",
+        "venue": "Hatfield Park"
       },
       {
         "bandId": 5,
         "city": "Stockholm, Sweden",
         "date": "2027-05-30",
-        "id": 2130,
+        "id": 2519,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Hovet"
       },
       {
         "bandId": 7,
-        "city": "Hatfield, United Kingdom",
+        "city": "Hertfordshire, United Kingdom",
         "date": "2027-05-30",
-        "id": 2172,
+        "id": 2527,
         "origin": "search",
-        "sourceUrl": "https://imprintent.org/the-used-announce-a-mid-summer-nights-symphony-screening/",
-        "venue": "Slam Dunk Festival South"
+        "sourceUrl": "https://gigsty.com/artist/the-used",
+        "venue": "Hatfield Park"
       },
       {
         "bandId": 5,
         "city": "Helsinki, Finland",
         "date": "2027-06-01",
-        "id": 2131,
+        "id": 2520,
         "origin": "search",
         "sourceUrl": "https://www.wastedattitude.com/taking-back-sunday-release-louder-now-deluxe-anniversary-edition-share-upcoming-tour-dates/",
         "venue": "Veikkaus"
       },
       {
         "bandId": 28,
-        "city": "Hradec Kr\u00e1lov\u00e9, Czechia",
-        "date": "2027-06-02",
-        "id": 2239,
-        "origin": "search",
-        "sourceUrl": "https://wmmr.com/2026/10/02/faith-no-more-joins-blink-182-as-headliners-for-rock-for-people-2027/",
-        "venue": "Rock For People"
-      },
-      {
-        "bandId": 28,
-        "city": "N\u00fcrnberg, Germany",
+        "city": "Nürnberg",
         "date": "2027-06-04",
-        "id": 2240,
-        "origin": "search",
-        "sourceUrl": "https://www.stubhub.com/blink-182-tickets/performer/1247?clickref=&t=t1.aff.partnerize_tsm_megmill-publisher_program-Display%2FMedia-1101l799-0&utm_source=partnerize_tsm_megmill&utm_medium=publisher_program&utm_sub_medium=Display%2FMedia&utm_campaign=1101l799&utm_content=0&PCID=partnerize_all",
-        "venue": "Zeppelinfeld N\u00fcrnberg"
-      },
-      {
-        "bandId": 28,
-        "city": "N\u00fcrburg-Eifel, Germany",
-        "date": "2027-06-04",
-        "id": 2241,
-        "origin": "search",
-        "sourceUrl": "https://www.stubhub.com/blink-182-tickets/performer/1247?clickref=&t=t1.aff.partnerize_tsm_megmill-publisher_program-Display%2FMedia-1101l799-0&utm_source=partnerize_tsm_megmill&utm_medium=publisher_program&utm_sub_medium=Display%2FMedia&utm_campaign=1101l799&utm_content=0&PCID=partnerize_all",
-        "venue": "N\u00fcrburgring"
-      },
-      {
-        "bandId": 28,
-        "city": "N\u00fcrnberg, DE",
-        "date": "2027-06-04",
-        "id": 2242,
+        "id": 2557,
         "origin": "search",
         "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
         "venue": "Zeppelinfeld"
       },
       {
         "bandId": 21,
-        "city": "Pasadena, California",
+        "city": "Pasadena, CA",
         "date": "2027-06-05",
-        "id": 1991,
+        "id": 2388,
         "origin": "search",
-        "sourceUrl": "https://www.ticketnews.com/2026/10/system-of-a-down-announces-2027-rose-bowl-show-with-pierce-the-veil/",
-        "venue": "Rose Bowl"
+        "sourceUrl": "https://lambgoat.com/news/55518/pierce-the-veil-to-join-system-of-a-down-again-on-second-rose-bowl-show/",
+        "venue": "Rose Bowl Stadium"
       },
       {
         "bandId": 21,
-        "city": "Pasadena, California",
-        "date": "2027-06-05",
-        "id": 1996,
+        "city": "Pasadena, CA",
+        "date": "2027-06-06",
+        "id": 2389,
         "origin": "search",
-        "sourceUrl": "https://rockcelebrities.net/system-of-a-down-announce-2027-rose-bowl-stadium-concert-with-pierce-the-veil/",
+        "sourceUrl": "https://lambgoat.com/news/55518/pierce-the-veil-to-join-system-of-a-down-again-on-second-rose-bowl-show/",
         "venue": "Rose Bowl Stadium"
       },
       {
         "bandId": 28,
         "city": "Berlin",
         "date": "2027-06-08",
-        "id": 2243,
+        "id": 2558,
         "origin": "search",
-        "sourceUrl": "https://www.ticketbande.com/concert-tickets/blink-182",
-        "venue": "Waldb\u00fchne"
-      },
-      {
-        "bandId": 28,
-        "city": "Berlin, DE",
-        "date": "2027-06-09",
-        "id": 2244,
-        "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
+        "sourceUrl": "https://blink182tours.org/",
         "venue": "Waldbuhne Berlin"
       },
       {
-        "bandId": 28,
-        "city": "Milano, IT",
-        "date": "2027-06-13",
-        "id": 2245,
+        "bandId": 26,
+        "city": "Sesto San Giovanni",
+        "date": "2027-06-11",
+        "id": 2456,
         "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
-        "venue": "Ippodromo SNAI San Siro"
+        "sourceUrl": "https://www.ticketmaster.it/artist/simple-plan-tickets/16164?language=en-us",
+        "venue": "Kozel Carroponte"
       },
       {
         "bandId": 28,
-        "city": "Milano, IT",
-        "date": "2027-06-14",
-        "id": 2246,
+        "city": "Milano, Italy",
+        "date": "2027-06-13",
+        "id": 2559,
         "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
-        "venue": "Ippodromo Snai San Siro"
+        "sourceUrl": "https://www.ticketmaster.com/blink182-tickets/artist/790708",
+        "venue": "Ippodromo SNAI San Siro"
       },
       {
         "bandId": 21,
         "city": "Nanterre, France",
         "date": "2027-06-15",
-        "id": 1993,
+        "id": 2390,
         "origin": "search",
         "sourceUrl": "https://www.loudmemories.com/artists/pierce-the-veil-18365",
         "venue": "Plenitude Arena"
       },
       {
         "bandId": 28,
-        "city": "Nanterre, Idf, FR",
-        "date": "2027-06-15",
-        "id": 2247,
-        "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
-        "venue": "PARIS LA DEFENSE ARENA"
-      },
-      {
-        "bandId": 28,
         "city": "Nanterre, 92, France",
         "date": "2027-06-15",
-        "id": 2248,
+        "id": 2560,
         "origin": "search",
-        "sourceUrl": "https://www.ticketmaster.co.nz/blink182-tickets/artist/790708",
-        "venue": "PLENITUDE ARENA"
-      },
-      {
-        "bandId": 28,
-        "city": "",
-        "date": "2027-06-15",
-        "id": 2249,
-        "origin": "search",
-        "sourceUrl": "https://www.ticketbande.com/concert-tickets/blink-182",
-        "venue": "Paris La D\u00e9fense Arena"
-      },
-      {
-        "bandId": 28,
-        "city": "Nanterre, FR",
-        "date": "2027-06-16",
-        "id": 2250,
-        "origin": "search",
-        "sourceUrl": "https://concerts.consequence.net/artists/blink-182-tickets",
+        "sourceUrl": "https://www.ticketmaster.com/blink182-tickets/artist/790708",
         "venue": "Plenitude Arena"
       },
       {
         "bandId": 21,
         "city": "Neuhausen Ob Eck, Germany",
         "date": "2027-06-18",
-        "id": 1994,
+        "id": 2391,
         "origin": "search",
         "sourceUrl": "https://www.loudmemories.com/artists/pierce-the-veil-18365",
         "venue": "Southside Festival 2027"
@@ -3436,43 +3202,34 @@
         "bandId": 21,
         "city": "Scheessel, Germany",
         "date": "2027-06-18",
-        "id": 1995,
+        "id": 2392,
         "origin": "search",
         "sourceUrl": "https://www.loudmemories.com/artists/pierce-the-veil-18365",
         "venue": "Hurricane Festival 2027"
       },
       {
-        "bandId": 28,
-        "city": "Dessel, Belgium",
-        "date": "2027-06-19",
-        "id": 2251,
-        "origin": "search",
-        "sourceUrl": "http://www.kerrang.com/blink-182-are-headlining-graspop-in-belgium-next-year",
-        "venue": "Graspop Metal Meeting"
-      },
-      {
         "bandId": 23,
         "city": "Viveiro, Viveiro, Spain",
         "date": "2027-07-01",
-        "id": 2144,
+        "id": 2614,
         "origin": "search",
         "sourceUrl": "https://www.gigsberg.co.uk/concert-tickets/hard-rock-metal/a-day-to-remember-tickets",
-        "venue": "Resurrection Fest: 4 Day Pass"
+        "venue": "Resurrection Fest"
       },
       {
         "bandId": 24,
-        "city": "",
+        "city": "Miami",
         "date": "2027-09-09",
-        "id": 1973,
+        "id": 2714,
         "origin": "search",
-        "sourceUrl": "https://www.bandsintown.com/a/175-new-found-glory?utm_medium&utm_source&utm_campaign&came_from=206",
+        "sourceUrl": "http://concerts.hypebot.com/artist/n/175-new-found-glory",
         "venue": "Port of Miami"
       },
       {
         "bandId": 6,
         "city": "Sunrise, FL",
         "date": "2027-10-01",
-        "id": 2149,
+        "id": 2617,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Amerant Bank Arena"
@@ -3481,7 +3238,7 @@
         "bandId": 6,
         "city": "Orlando, FL",
         "date": "2027-10-02",
-        "id": 2150,
+        "id": 2618,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Kia Center"
@@ -3490,7 +3247,7 @@
         "bandId": 6,
         "city": "Raleigh, NC",
         "date": "2027-10-04",
-        "id": 2151,
+        "id": 2619,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Lenovo Center"
@@ -3499,7 +3256,7 @@
         "bandId": 6,
         "city": "Baltimore, MD",
         "date": "2027-10-06",
-        "id": 2152,
+        "id": 2620,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "CFG Bank Arena"
@@ -3508,7 +3265,7 @@
         "bandId": 6,
         "city": "Uncasville, CT",
         "date": "2027-10-08",
-        "id": 2153,
+        "id": 2621,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Mohegan Sun Arena"
@@ -3517,7 +3274,7 @@
         "bandId": 6,
         "city": "Hershey, PA",
         "date": "2027-10-09",
-        "id": 2154,
+        "id": 2622,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "GIANT Center"
@@ -3526,7 +3283,7 @@
         "bandId": 6,
         "city": "Buffalo, NY",
         "date": "2027-10-11",
-        "id": 2155,
+        "id": 2623,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "KeyBank Center"
@@ -3535,7 +3292,7 @@
         "bandId": 6,
         "city": "Cleveland, OH",
         "date": "2027-10-13",
-        "id": 2156,
+        "id": 2624,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Rocket Mortgage FieldHouse"
@@ -3544,7 +3301,7 @@
         "bandId": 6,
         "city": "Columbus, OH",
         "date": "2027-10-15",
-        "id": 2157,
+        "id": 2625,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "Schottenstein Center"
@@ -3553,7 +3310,7 @@
         "bandId": 6,
         "city": "Pittsburgh, PA",
         "date": "2027-10-16",
-        "id": 2158,
+        "id": 2626,
         "origin": "search",
         "sourceUrl": "https://www.ticketmaster.com/dashboard-confessional-tickets/artist/703045?page=18",
         "venue": "PPG Paints Arena"
